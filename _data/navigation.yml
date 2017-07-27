@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: Intro
+    url: /intro
+  - title: Meinungen
+    url: /meinungen
+  - title: Partner
+    url: /partner
+  - title: "Über uns"
+    url: /about
+  - title: "Kontakt"
+    url: /contact
