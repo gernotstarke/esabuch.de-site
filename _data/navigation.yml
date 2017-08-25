@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: Intro
+  - title: Inhalt
     url: /intro
-  - title: Meinungen
-    url: /meinungen
-  - title: Partner
-    url: /partner
-  - title: "Über uns"
+  - title: Zertifizierung
+    url: /zertifizierung
+  - title: Add-On
+    url: /addon
+  - title: "Über mich"
     url: /about
-  - title: "Kontakt"
-    url: /contact
