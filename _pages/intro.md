@@ -1,39 +1,12 @@
 ---
-title: Das kann Scoobac
+title: Effektive Softwraearchitekturen
 layout: splash
-permalink: /intro
+permalink: /home
 header:
-  overlay_image: /assets/images/splash/scoobac-landingpage.jpg
-  overlay_filter: rgba(254, 61, 88, 0.4)
+  overlay_image: /images/esa-banner.png
 
-excerpt: "**Schulalltag vereinfachen.**"
+excerpt: "**DAS Buch zu Softwarearchitektur.**"
 
-
-mission:
-  - image_path: //assets/images/intro/mission-uebersicht.jpeg
-    title: "Schulalltag vereinfachen"
-    excerpt: 'SchülerInnen müssen auf vieles achten!<br><br>
-    Scoobac vereinfacht alle diese Situationen, für SchülerInnen wie auch Lehrpersonal.
-    <br>Mit Scoobac habt ihr stets alle notwendigen Infos zur Hand - einfach, hilfreich und zuverlässig.'
-
-planning:
-      - image_path: //assets/images/intro/stundenplan-plain.jpeg
-        title: "Stundenplan"
-        excerpt: 'Scoobac zeigt Deinen Stundenplan -<br>
-        übersichtlich und attraktiv.
-        <br><br>Inklusive aktueller Raum-Info sowie Ausblick auf den nächsten Tag.'
-
-vertretung:
-      - image_path: //assets/images/intro/vertretung-plain.jpeg
-        title: "Vertretungen"
-        excerpt: 'Scoobac zeigt Vertretungsinfo -<br>
-        falls mal Unterricht ausfällt.
-        <br><br>Du bekommst auf Wunsch nur Deine Vertretungen,
-        alternativ auch die für Deine Freunde, Teams oder
-        auch für die ganze Schule!
-        <br><br>Demnächst kannst Du auch Vertretungen
-        für Deine Freunde und Geschwister sehen, die auf andere
-        Schulen gehen!'
 
 ausfall:
   - image_path: //assets/images/intro/ausfall-plain.jpeg
@@ -70,22 +43,12 @@ menu:
 
 ---
 
-# Unsere Mission
+# Die Mission
+
+Alle Infos zu **praktischer** Softwarearchitektur - an einer Stelle!
+Praxistauglich, pragmatisch und erprobt.
 
 
-Unsere Mission ist, allen Schülern die Alltagsprobleme abzunehmen.
-Scoobac bietet für jedes Problem einfache und effektive Lösungen.
-
-
-
-
-{% include feature_row id="mission" type="left" %}
-
-{% include feature_row id="planning" type="right" %}
-
-{% include feature_row id="vertretung" type="left" %}
-
-{% include feature_row id="ausfall" type="right" %}
 
 {% include feature_row id="news" type="left" %}
 
