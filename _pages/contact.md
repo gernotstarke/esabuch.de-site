@@ -1,19 +1,21 @@
 ---
-title: "Kontaktiert uns - Wir hören zu!"
+title: "Kontaktieren Sie mich!"
 layout: single
 permalink: /contact
 header:
-  overlay_image: /assets/images/splash/unsplash-contact-pavan-trikutam.jpg
-  caption: "Photo: [**Pavan Trikutam**](https://unsplash.com/collections/389099/contact?photo=71CjSSB83Wo)"
-
+  overlay_image: /images/esa-banner.png
 ---
 
 
-* <a href="xmxaxixlxtxo:ixnxfxox@xsxcxoxoxbxaxc.xoxrgx" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Unsere Adresse ist gegen Spam gesichert)</a>
+* <a href="xmxaxixlxtxo:xgxsx@xgxexrxnxoxtxsxtxaxrxkxex.xdxe" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse gegen Spam gesichert)</a>
 
-* [<i class="fa fa-fw fa-twitter"></i>@scoobac](https://twitter.com/per_starke)
+* [<i class="fa fa-fw fa-twitter"></i>@gernotstarke](https://twitter.com/gernotstarke)
 
-* [<i class="fa fa-fw fa-facebook"></i>Facebook](https://facebook.com)
+* [<i class="fa fa-fw fa-xing"></i>Xing](https://www.xing.com/profile/Gernot_Starke)
+
+* [<i class="fa fa-fw fa-rss-square"></i>Blog](https://it-and-more.blogspot.com)
+
+* [<i class="fa fa-fw fa-github"></i>Github](https://github.com/gernotstarke)
 
 
-Bitte beachten Sie unsere <a href="{{ site.baseurl }}/imprint">Datenschutzrichtlinie.</a>.
+Bitte beachten Sie die <a href="{{ site.baseurl }}/imprint">Datenschutzrichtlinie.</a>.
