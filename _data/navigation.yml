@@ -1,10 +1,10 @@
 # main links
 main:
   - title: Inhalt
-    url: /intro
+    url: /inhalt
   - title: Zertifizierung
     url: /zertifizierung
   - title: Add-Ons
-    url: /addon
+    url: /addons
   - title: "Über mich"
     url: /about
