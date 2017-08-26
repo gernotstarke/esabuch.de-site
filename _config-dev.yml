@@ -10,11 +10,11 @@ locale                   : "de"
 title                    : "ESA"
 title_separator          : "-"
 name                     : ""
-description              : "Digitalisierungsplattform für Schülerinnen und Schüler."
+description              : "Effektive Softwarearchitekturen."
 url                      : "http://0.0.0.0" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gernotstarke/esabuch.de-site" # GitHub username/repo-name
-teaser                   : /assets/images/scoobac-landingpage.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /images/esa-banner.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 
@@ -44,7 +44,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Gernot Starke"
-  avatar           : /assets/images/about/per_portrait.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /mages/Gernot-avatar-2016.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Köln"
   email            : gs@gernotstarke.de
