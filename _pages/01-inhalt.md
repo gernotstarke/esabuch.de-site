@@ -13,6 +13,8 @@ excerpt: "Praktisch relevante Themenauswahl"
 ### 1. Einleitung
 Beschreibt die tragische Geschichte eines (Architektur-)Desasters.
 
+
+
 ### 2. Architektur und Architekten
 Kapitel 2 erläutert die Begriffe „Architektur und Architekt“. Es beantwortet die Fragen nach dem Was, Warum und Wer von Softwarearchitekturen.
 
