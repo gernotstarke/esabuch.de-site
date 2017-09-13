@@ -81,6 +81,9 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - zz-originale
+  - zz-pages
+
 keep_files:
   - .git
 encoding: "utf-8"
