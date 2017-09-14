@@ -11,8 +11,8 @@ title                    : "ESA"
 title_separator          : "-"
 name                     : ""
 description              : "Effektive Softwarearchitekturen"
-url                      : "http://scoobac.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "http://esabuch.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/v8"  # the subpath of your site, e.g. "/blog"
 repository               : "gernotstarke/esabuch.de-site" # GitHub username/repo-name
 teaser                   : /images/esa-banner.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)

@@ -19,7 +19,7 @@ echo "${GREEN}(d)evelop ${RESET} starts a jekyll server on port 0.0.0.0:4000,"
 echo "which performs incremental builds and listens for file changes."
 echo
 echo "${RED}(b)uild ${RESET} builds the site with production configuration,"
-echo "into zz-site directory."
+echo "into ./zz-site directory."
 echo "=================================================="
 echo
 
@@ -31,13 +31,13 @@ if [[ -z $choice ]]; then
 fi
 
 case "$choice" in
-  d|D|dev|develop) echo "develop"
+  d|D|dev|develop) echo "develop, incremental build"
                    docker-compose --file _docker-compose-dev.yml up
                    ;;
 
-  b|B|build)       echo "build"
+  b|B|build)       echo "build production site"
                    docker-compose --file _docker-compose-prod.yml up
-                   docker-compose --file _docker-compose-prod.yml down   
+                   docker-compose --file _docker-compose-prod.yml down
                    ;;
 
   # catchall: abort
@@ -46,4 +46,4 @@ case "$choice" in
                    ;;
 esac
 
-echo "Thanx. Now running docker with ${choice} configuration."
+echo "Thanx."
