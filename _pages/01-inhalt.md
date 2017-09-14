@@ -42,8 +42,10 @@ Kapitel 8 erklärt Ihnen die qualitative und szenariobasierte Bewertung von So
 Kapitel 9 beleuchtet Änderung, Modernisierung und Evolution von Software – womit
 Softwareentwickler vermutlich 80 % ihrer beruflichen Zeit verbringen.
 
-### 10. SOA und Microservices
-Kapitel 10 stellt ich Ihnen die Grundlagen serviceorientierter Architekturen (SOA) vor – sowohl aus geschäftlicher wie aus technischer Sicht. Hierzu gehören auch die seit einiger Zeit intensiv diskutierten Microservices.
+### 10. Microservices
+In Kapitel 10 stelle ich Ihnen die Grundlagen von Microservices vor, sowohl von der technischen
+wie auch organisatorischen Seite. Sie finden hier einige Hinweise auf praktische Beispiele
+von Microservice-Systemen.
 
 ### 11. Enterprise IT-Architektur
 Schließlich hebt Kapitel 11 Ihren Blick über den Tellerrand reiner Software- und Systemarchitekturen hinaus und führt Sie in die Unternehmens-IT-Architektur ein – neudeutsch Enterprise-IT-Architektur.
