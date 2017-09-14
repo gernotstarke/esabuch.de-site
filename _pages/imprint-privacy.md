@@ -11,9 +11,7 @@ share: false
 
 #### Anbieter
 
-Team CONCUS, vertreten durch:
-
-* Per Starke, Willi-Lauf Allee 43, D-50858 Köln
+Dr. Gernot Starke, Willi-Lauf Allee 43, D-50858 Köln
 
 
 #### Kontakt

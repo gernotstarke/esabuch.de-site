@@ -60,7 +60,6 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -68,14 +67,10 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
-  - log
   - node_modules
   - package.json
   - Rakefile
@@ -117,7 +112,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+collections:
+  addon:
+       output: true
+       permalink: /:collection-posts/:title.html
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

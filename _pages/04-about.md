@@ -81,9 +81,7 @@ training:
     Weiterbildung von IT-Personal. '
 
 lebenslauf:
-  - image_path: /images/about/lebenslauf.jpg
-    #alt: Lebenslauf
-    title: Lebenslauf
+  - title: Lebenslauf
     excerpt: "Studium der Informatik an der RWTH Aachen, Gründer und Geschäftsführer
     der Qualidata Software GmbH, Promotion über methodisches
     Software-Engineering an der J.Kepler Universität Linz,
