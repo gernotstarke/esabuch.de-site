@@ -21,7 +21,7 @@ gernot:
 erfahrung:
    - image_path: /images/about/landkarte.png
      alt: IT-Welt
-     title: Vielseitige Erfahrung..
+     title: Vielseitige Erfahrung.
      excerpt: '... in (fast) allen Bereichen der Softwareentwicklung,
      von Requirements, Architektur/Entwurf, Implementierung, Test, Management. Geek mit
      betriebswirtschaftlichem Verständnis. Dolmetscher zwischen Fachbereich und IT.'
@@ -29,7 +29,7 @@ erfahrung:
 arc42:
     - image_path: /images/about/arc42-logo.jpg
       alt: arc42
-      title: (Mit-)Gründer von arc42
+      title: (Mit-)Gründer von arc42.
       excerpt: '**[arc42](http://arc42.org), das** Template zur Kommunikation und Dokumentation von Softwarearchitekturen.
 
 
@@ -39,7 +39,7 @@ arc42:
 aim42:
    - image_path: /images/about/aim42-logo.png
      alt: aim42
-     title: Software systematisch verbessern
+     title: Verbessert bestehende Systeme.
      excerpt: 'Gründer von [aim42](http://aim42.org), der _architecture improvement method_.
      aim42 unterstützt bei der systematischen Verbesserung, Modernisierung, Renovierung
      bestehender Systeme und basiert auf etablierten Grundlagen sowie
@@ -93,7 +93,7 @@ lebenslauf:
 
     Verheiratet mit _Traumfrau Uli_, zwei (große) Kinder.
 
-    Überzeugter Kölner."
+    Überzeugter Kölner, Hobbysportler. Kocht gerne, konsumiert Krimis."
 
 ---
 

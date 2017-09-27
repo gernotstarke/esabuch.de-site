@@ -8,7 +8,7 @@ header:
 excerpt: "Zusatzinfos."
 ---
 
-Hier finden Sie Add-On Infos zum Buch.
+Hier finden Sie zusätzliche Infos zum Buch.
 
 {% for addon in site.addon %}
 
