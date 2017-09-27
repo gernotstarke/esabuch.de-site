@@ -10,7 +10,7 @@ excerpt: "Zusatzinfos."
 
 Hier finden Sie zusätzliche Infos zum Buch.
 
-{% for addon in site.addon %}
+{% for addon in site.addons %}
 
 ### [{{ addon.title }}]({{ addon.url }})
 

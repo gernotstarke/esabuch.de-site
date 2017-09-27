@@ -113,27 +113,24 @@ sass:
 
 # Outputting
 collections:
-  addon:
-       output: true
-       permalink: /:collection-posts/:title.html
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  addons:
+   output: true
+   permalink: /:collection/:path
 
 
 # Plugins
 gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
   - jekyll-feed
   - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
   - jekyll-feed
   - jemoji
 
