@@ -12,4 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
+  # removed github-linguist, as it fails with unresolved dependencies
+  # of icu4c (run "apt-get install libicu-dev" to resolve)
+  # gem 'github-linguist' 
 end
