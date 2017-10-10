@@ -5,6 +5,6 @@ main:
   - title: Zertifizierung
     url: /zertifizierung
   - title: Add-Ons
-    url: /addon
+    url: /addon/
   - title: "Über mich"
-    url: /about
+    url: /about/

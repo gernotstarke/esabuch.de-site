@@ -1,7 +1,7 @@
 ---
 title: "Kontaktieren Sie mich!"
 layout: single
-permalink: /contact
+permalink: /contact.html
 header:
   overlay_image: /images/esa-banner.png
 ---

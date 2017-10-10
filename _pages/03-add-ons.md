@@ -1,7 +1,7 @@
 ---
 title: Add-Ons
 layout: single
-permalink: /addon
+permalink: /addon/
 header:
   overlay_image: /images/esa-banner.png
 

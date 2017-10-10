@@ -1,7 +1,7 @@
 ---
 title: Dr. Gernot Starke
 layout: splash
-permalink: /about
+permalink: /about.html
 header:
   overlay_image: /images/esa-banner.png
 

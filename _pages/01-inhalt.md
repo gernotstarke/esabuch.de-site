@@ -1,7 +1,7 @@
 ---
 title: Inhalt
 layout: single
-permalink: /inhalt
+permalink: /inhalt/
 header:
   overlay_image: /images/esa-banner.png
 

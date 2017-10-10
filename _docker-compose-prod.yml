@@ -1,4 +1,5 @@
-# docker-compose definition for generating a release-version.
+# docker-compose definition for generating a release-version
+# (that has to be ftp'd or rcp'd to the production webserver)
 #
 version: '2'
 
