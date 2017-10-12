@@ -15,6 +15,10 @@ body {
   font-family: $global-font-family;
   line-height: 1.5;
 
+/* red line on left side... */
+    border-left: solid 20px #cb2a2f;
+    border-right: solid 10px #cb2a2f;
+
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
