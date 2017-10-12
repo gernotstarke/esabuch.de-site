@@ -3,8 +3,8 @@ main:
   - title: Inhalt
     url: /inhalt
   - title: Zertifizierung
-    url: /zertifizierung
+    url: /zertifizierung.html
   - title: Add-Ons
     url: /addon/
   - title: "Über mich"
-    url: /about/
+    url: /about.html

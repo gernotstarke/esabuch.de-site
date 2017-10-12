@@ -29,11 +29,19 @@ feature_row:
 kaufen:
    - image_path: /images/esa-8-cover.png
    - title: "Kaufen"
-     excerpt: "  
+     excerpt: '  
     * Beim [Hanser-Verlag](http://www.hanser-fachbuch.de/buch/Effektive+Softwarearchitekturen/9783446443617) direkt
 
-    * Bei [Amazon]()"    
+    * Bei [Amazon]()'    
 
+   - title: "Feedback?"
+     excerpt: 'Kritik? Vorschläge? Fehler gefunden? Ich freue mich über Ihre Rückmeldung:
+
+     <form method="POST" action="http://formspree.io/gs@gernotstarke.de">
+        <input type="email" name="email" placeholder="Ihre Email">
+        <textarea name="message" placeholder="Ihr Kommentar zum Buch..."></textarea>
+        <button type="submit">Absenden</button>
+     </form>'
 ---
 
 # Was Sie über Softwarearchitektur wissen sollten...

@@ -1,6 +1,6 @@
 ---
 title: Inhalt
-layout: single
+layout: splash
 permalink: /inhalt/
 header:
   overlay_image: /images/esa-banner.png
@@ -8,7 +8,10 @@ header:
 excerpt: "Praktisch relevante Themenauswahl"
 ---
 
+{% include toc icon="sort-amount-asc" title="Kapitel" %}
+
 ![](/images/wegweiser-ESA-8.png)
+
 
 ### 1. Einleitung
 Beschreibt die tragische Geschichte eines (Architektur-)Desasters.

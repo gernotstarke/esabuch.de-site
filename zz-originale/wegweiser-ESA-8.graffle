@@ -5,7 +5,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle7</string>
-		<string>179.17.0.293761</string>
+		<string>179.19.0.296447</string>
 	</array>
 	<key>CreationDate</key>
 	<string>2006-08-26 09:49:19 +0000</string>
@@ -16,7 +16,7 @@
 	<key>GuidesLocked</key>
 	<string>NO</string>
 	<key>GuidesVisible</key>
-	<string>YES</string>
+	<string>NO</string>
 	<key>ImageCounter</key>
 	<integer>1</integer>
 	<key>LinksVisible</key>
@@ -26,7 +26,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2017-08-27 08:56:46 +0000</string>
+	<string>2017-10-10 19:17:59 +0000</string>
 	<key>Modifier</key>
 	<string>Dr. Gernot Starke</string>
 	<key>MovementHandleVisible</key>
@@ -62,7 +62,7 @@
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{841.8897705078125, 595.27557277679443}</string>
+			<string>{842, 595}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -94,7 +94,7 @@
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {818, 572}}</string>
+				<string>{{0, 0}, {819, 572}}</string>
 				<key>Class</key>
 				<string>GraffleShapes.CanvasBackgroundGraphic</string>
 				<key>ID</key>
@@ -179,9 +179,10 @@
 						<key>Pad</key>
 						<real>15</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs42 \cf0 Bewertung
@@ -245,9 +246,10 @@ Softwarerchitekturen}</string>
 						<key>Pad</key>
 						<real>15</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs42 \cf0 Modernisierung\
@@ -291,11 +293,11 @@ Softwarerchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -310,28 +312,52 @@ Softwarerchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxMIaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 10}</string>
@@ -380,9 +406,10 @@ Softwarerchitekturen}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs42 \cf0 Microservices}</string>
@@ -420,11 +447,11 @@ Softwarerchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -439,28 +466,52 @@ Softwarerchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE5hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 9}</string>
@@ -552,11 +603,11 @@ Softwarerchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -571,28 +622,52 @@ Softwarerchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxM4aEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 13}</string>
@@ -643,9 +718,10 @@ Softwarerchitekturen}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs42 \cf0 Werkzeuge
@@ -708,9 +784,10 @@ Softwarerchitekturen}</string>
 						<key>Pad</key>
 						<real>15</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs42 \cf0 Kommunikation und \
@@ -751,11 +828,11 @@ Dokumentation}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -770,28 +847,52 @@ Dokumentation}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxNIaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 14}</string>
@@ -860,9 +961,10 @@ Dokumentation}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0 ISAQB 
@@ -906,11 +1008,11 @@ Dokumentation}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -925,28 +1027,52 @@ Dokumentation}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxMoaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 12}</string>
@@ -995,9 +1121,10 @@ Dokumentation}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs42 \cf0        
@@ -1040,11 +1167,11 @@ Softwarearchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -1059,28 +1186,52 @@ Softwarearchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxNYaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 15}</string>
@@ -1131,9 +1282,10 @@ Softwarearchitekturen}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs42 \cf0 Architektonien }</string>
@@ -1175,11 +1327,11 @@ Softwarearchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -1194,28 +1346,52 @@ Softwarearchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxMYaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 11}</string>
@@ -1266,9 +1442,10 @@ Softwarearchitekturen}</string>
 						<key>Pad</key>
 						<real>6</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs42 \cf0 Enterprise\
@@ -1311,11 +1488,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -1330,28 +1507,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE1hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 5}</string>
@@ -1389,11 +1590,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -1408,28 +1609,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE3hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 7}</string>
@@ -1467,11 +1692,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -1486,28 +1711,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE2hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 6}</string>
@@ -1545,11 +1794,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -1564,28 +1813,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE0hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 4}</string>
@@ -1623,11 +1896,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -1642,28 +1915,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwEzhoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 3}</string>
@@ -1701,11 +1998,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -1720,28 +2017,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE4hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 8}</string>
@@ -1829,11 +2150,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.27058842778205872</real>
+								<real>0.54287821054458618</real>
 								<key>g</key>
-								<real>0.81176429986953735</real>
+								<real>0.76114636659622192</real>
 								<key>r</key>
-								<real>0.72548991441726685</real>
+								<real>0.36449235677719116</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -1848,28 +2169,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564041614532471</real>
+								<real>0.43020665645599365</real>
 								<key>g</key>
-								<real>0.4756467342376709</real>
+								<real>0.63148599863052368</real>
 								<key>r</key>
-								<real>0.47563493251800537</real>
+								<real>0.00035664209281094372</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwEyhoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 2}</string>
@@ -1918,9 +2263,10 @@ IT Architektur}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs42 \cf0 Technische Konzepte}</string>
@@ -1973,9 +2319,10 @@ IT Architektur}</string>
 						<key>Pad</key>
 						<real>6</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0 Modellierung }</string>
@@ -2074,9 +2421,10 @@ IT Architektur}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs42 \cf0 Vorgehen
@@ -2128,9 +2476,10 @@ IT Architektur}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs42 \cf0 Entwurf
@@ -2181,9 +2530,10 @@ Methoden, Muster}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs42 \cf0 Architektur und Architekten }</string>
@@ -2298,7 +2648,7 @@ Methoden, Muster}</string>
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{497.97342960347817, 459.74169247688093}, {32.913387471356053, 24.999999999999996}}</string>
+					<string>{{499.18975979616698, 392.25482859612487}, {32.913387471356053, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2326,11 +2676,11 @@ Methoden, Muster}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -2345,28 +2695,52 @@ Methoden, Muster}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxNYaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 15}</string>
@@ -2378,7 +2752,7 @@ Methoden, Muster}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{456.50935559286683, 204.65362205426331}, {209, 61}}</string>
+					<string>{{456.50935559286683, 166.65362205426331}, {209, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2426,13 +2800,13 @@ Methoden, Muster}</string>
 						<key>Pad</key>
 						<real>15</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs36 \cf0 Bewertung
-\b0  von\
+\f0\fs36 \cf0 Bewertung von\
 Softwarerchitekturen}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -2444,7 +2818,7 @@ Softwarerchitekturen}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{622.38878329677425, 109.31553140985022}, {51, 251.67618128882617}}</string>
+					<string>{{622.38878329677425, 96.315531409850223}, {51, 219.98900416251325}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2492,13 +2866,15 @@ Softwarerchitekturen}</string>
 						<key>Pad</key>
 						<real>15</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs36 \cf0 Modernisierung 
-\b0 und Evolution\
+\f0\fs36 \cf0 Modernisierung
+\b  
+\b0 \
 bestehender Systeme}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -2510,7 +2886,7 @@ bestehender Systeme}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{35.556298148649198, 385.54695850700836}, {32.913387471356053, 24.999999999999996}}</string>
+					<string>{{36.556298148649198, 328.54695850700836}, {32.913387471356053, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2538,11 +2914,11 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -2557,28 +2933,52 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxMIaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 10}</string>
@@ -2588,7 +2988,7 @@ bestehender Systeme}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{35.433071187631349, 385.2558376018581}, {167.7022307828521, 53}}</string>
+					<string>{{36.433071187631349, 328.2558376018581}, {167.7022307828521, 53}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2627,20 +3027,20 @@ bestehender Systeme}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\fs36 \cf0      
-\b Microservices}</string>
+\f0\fs36 \cf0      Microservices}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{618.79822952446534, 85.450629483879581}, {32.913387471356053, 24.999999999999996}}</string>
+					<string>{{618.79822952446534, 72.450629483879581}, {32.913387471356053, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2668,11 +3068,11 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -2687,28 +3087,52 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE5hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 9}</string>
@@ -2720,7 +3144,7 @@ bestehender Systeme}</string>
 					<key>AbsoluteRotation</key>
 					<true/>
 					<key>Bounds</key>
-					<string>{{618.79822952446534, 85.450629483879581}, {58.181107544617817, 275.5410832147968}}</string>
+					<string>{{618.79822952446534, 72.450629483879595}, {58.181107544617817, 243.85390608848388}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2772,7 +3196,7 @@ bestehender Systeme}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{35.634063842447794, 459.2762453224093}, {32.757856083758874, 24.999999999999996}}</string>
+					<string>{{36.850394035136603, 392.78938144165323}, {32.757856083758874, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2800,11 +3224,11 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -2819,28 +3243,52 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxM4aEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 13}</string>
@@ -2852,7 +3300,7 @@ bestehender Systeme}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{35.634063842447794, 460.20713963135267}, {167.50123812803565, 52.569105691056905}}</string>
+					<string>{{36.850394035136603, 392.72027575059661}, {167.50123812803565, 52.569105691056905}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2891,9 +3339,10 @@ bestehender Systeme}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0   Werkzeuge }</string>
@@ -2907,7 +3356,7 @@ bestehender Systeme}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{232.20423559981185, 459.2762453224093}, {32.757856083758874, 24.999999999999996}}</string>
+					<string>{{233.42056579250067, 391.78938144165323}, {32.757856083758874, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2935,11 +3384,11 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -2954,28 +3403,52 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxNIaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 14}</string>
@@ -2987,7 +3460,7 @@ bestehender Systeme}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{445.0393741166497, 385.54695850700836}, {32.757856083758874, 24.999999999999996}}</string>
+					<string>{{446.0393741166497, 328.54695850700836}, {32.757856083758874, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3015,11 +3488,11 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -3034,28 +3507,52 @@ bestehender Systeme}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxMoaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 12}</string>
@@ -3065,7 +3562,7 @@ bestehender Systeme}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{445.0393741166497, 385.54695850700836}, {231.93996295243431, 53}}</string>
+					<string>{{446.0393741166497, 328.54695850700836}, {231.93996295243431, 53}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3104,14 +3601,13 @@ bestehender Systeme}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\fs36 \cf0        
-\b Beispiele
-\b0  von\
+\f0\fs36 \cf0        Beispiele von\
 Softwarearchitekturen}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -3121,7 +3617,7 @@ Softwarearchitekturen}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{497.97342960347817, 459.74169247688098}, {179.0059074656055, 52.569105691056905}}</string>
+					<string>{{499.18975979616698, 392.25482859612492}, {179.0059074656055, 52.569105691056905}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3160,9 +3656,10 @@ Softwarearchitekturen}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0 Architektonien }</string>
@@ -3176,7 +3673,7 @@ Softwarearchitekturen}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{232.20423559981185, 385.54695850700836}, {32.757856083758874, 24.999999999999996}}</string>
+					<string>{{233.20423559981185, 328.54695850700836}, {32.757856083758874, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3204,11 +3701,11 @@ Softwarearchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -3223,28 +3720,52 @@ Softwarearchitekturen}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwIxMYaEAmlJAQKS
+						hISEDE5TRGljdGlvbmFyeQCUhAFp
+						A5KElpYHTlNDb2xvcoaShISEB05T
+						Q29sb3IAlIQBYwGEBGZmZmaDzcxM
+						PoPNzEw+g83MTD4BhpKElpYQTlNQ
+						YXJhZ3JhcGhTdHlsZYaShISEF05T
+						TXV0YWJsZVBhcmFncmFwaFN0eWxl
+						AISEEE5TUGFyYWdyYXBoU3R5bGUA
+						lIQEQ0NAUwIAhISEB05TQXJyYXkA
+						lJkMkoSEhAlOU1RleHRUYWIAlIQC
+						Q2YAHIaShKOiADiGkoSjogBUhpKE
+						o6IAcIaShKOiAIGMAIaShKOiAIGo
+						AIaShKOiAIHEAIaShKOiAIHgAIaS
+						hKOiAIH8AIaShKOiAIEYAYaShKOi
+						AIE0AYaShKOiAIFQAYaGAIaShJaW
+						Bk5TRm9udIaShISEBk5TRm9udB6U
+						mRyEBVsyOGNdBgAAABQAAAD//kgA
+						ZQBsAHYAZQB0AGkAYwBhAIQBZhib
+						AJsBmwCbAIaGhg==
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 11}</string>
@@ -3254,7 +3775,7 @@ Softwarearchitekturen}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{232.20423559981208, 385.2558376018581}, {185.90600441423783, 53}}</string>
+					<string>{{233.20423559981208, 328.2558376018581}, {185.90600441423783, 53}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3293,9 +3814,10 @@ Softwarearchitekturen}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0 Enterprise\
@@ -3310,7 +3832,7 @@ IT Architektur}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{39.093364453571496, 235.35323354286885}, {32.913387471356053, 24.999999999999996}}</string>
+					<string>{{39.093364453571496, 197.35323354286885}, {32.913387471356053, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3338,11 +3860,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -3357,28 +3879,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE1hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 5}</string>
@@ -3388,7 +3934,7 @@ IT Architektur}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{39.093364453571951, 309.83908841789173}, {32.913387471356053, 24.999999999999996}}</string>
+					<string>{{39.093364453571951, 262.83908841789173}, {32.913387471356053, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3416,11 +3962,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -3435,28 +3981,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE3hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 7}</string>
@@ -3466,7 +4036,7 @@ IT Architektur}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{329.23130234526644, 236.51771716347002}, {32.913387471356053, 24.999999999999996}}</string>
+					<string>{{329.23130234526644, 198.51771716347002}, {32.913387471356053, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3494,11 +4064,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -3513,28 +4083,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE2hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 6}</string>
@@ -3544,7 +4138,7 @@ IT Architektur}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{37.63189364644694, 160.40193151337422}, {32.913387471356067, 25}}</string>
+					<string>{{37.63189364644694, 134.40193151337422}, {32.913387471356067, 25}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3572,11 +4166,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -3591,28 +4185,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE0hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 4}</string>
@@ -3622,7 +4240,7 @@ IT Architektur}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{36.131893981723522, 85.450629483879581}, {32.913387471356067, 25}}</string>
+					<string>{{36.131893981723522, 72.450629483879581}, {32.913387471356067, 25}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3650,11 +4268,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -3669,28 +4287,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwEzhoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 3}</string>
@@ -3700,7 +4342,7 @@ IT Architektur}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{534.42716589535974, 85.450629483879581}, {32.913387471356053, 24.999999999999996}}</string>
+					<string>{{534.42716589535974, 72.450629483879581}, {32.913387471356053, 24.999999999999996}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3728,11 +4370,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -3747,28 +4389,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwE4hoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 8}</string>
@@ -3780,7 +4446,7 @@ IT Architektur}</string>
 					<key>AbsoluteRotation</key>
 					<true/>
 					<key>Bounds</key>
-					<string>{{534.42716589535974, 85.450629483879595}, {58.181107544617817, 278.98900416251337}}</string>
+					<string>{{535.42716589535974, 72.450629483879595}, {58.181107544617817, 243.85390608848388}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3856,11 +4522,11 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.80000000000000004</real>
+								<real>0.52892887592315674</real>
 								<key>g</key>
-								<real>0.80000000000000004</real>
+								<real>0.77986377477645874</real>
 								<key>r</key>
-								<real>0.80000000000000004</real>
+								<real>0.48795241117477417</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -3875,28 +4541,52 @@ IT Architektur}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.47564000000000001</real>
+								<real>0.016991190612316132</real>
 								<key>g</key>
-								<real>0.47564699999999999</real>
+								<real>0.55859392881393433</real>
 								<key>r</key>
-								<real>0.47563499999999997</real>
+								<real>0.0</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 							<key>CornerRadius</key>
 							<real>5</real>
-							<key>Draws</key>
-							<string>NO</string>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
 						<key>Pad</key>
 						<real>2</real>
+						<key>RTFD</key>
+						<data>
+						BAtzdHJlYW10eXBlZIHoA4QBQISE
+						hBJOU0F0dHJpYnV0ZWRTdHJpbmcA
+						hIQITlNPYmplY3QAhZKEhIQITlNT
+						dHJpbmcBlIQBKwEyhoQCaUkBAZKE
+						hIQMTlNEaWN0aW9uYXJ5AJSEAWkD
+						koSWlgdOU0NvbG9yhpKEhIQHTlND
+						b2xvcgCUhAFjAYQEZmZmZoPNzEw+
+						g83MTD6DzcxMPgGGkoSWlhBOU1Bh
+						cmFncmFwaFN0eWxlhpKEhIQXTlNN
+						dXRhYmxlUGFyYWdyYXBoU3R5bGUA
+						hIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+						hARDQ0BTAgCEhIQHTlNBcnJheQCU
+						mQyShISECU5TVGV4dFRhYgCUhAJD
+						ZgAchpKEo6IAOIaShKOiAFSGkoSj
+						ogBwhpKEo6IAgYwAhpKEo6IAgagA
+						hpKEo6IAgcQAhpKEo6IAgeAAhpKE
+						o6IAgfwAhpKEo6IAgRgBhpKEo6IA
+						gTQBhpKEo6IAgVABhoYAhpKElpYG
+						TlNGb250hpKEhIQGTlNGb250HpSZ
+						HIQFWzI4Y10GAAAAFAAAAP/+SABl
+						AGwAdgBlAHQAaQBjAGEAhAFmGJsA
+						mwGbAJsAhoaG
+						</data>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+{\*\expandedcolortbl;;\csgenericrgb\c20000\c20000\c20000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs48 \cf2 2}</string>
@@ -3906,7 +4596,7 @@ IT Architektur}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{39.093364453572008, 310.30453557236348}, {469.14384535729994, 53}}</string>
+					<string>{{39.093364453572008, 263.30453557236348}, {469.14384535729994, 53}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3945,12 +4635,13 @@ IT Architektur}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs36 \cf0 Technische Konzepte}</string>
+\f0\fs36 \cf0 Technische Konzepte}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
@@ -3959,7 +4650,7 @@ IT Architektur}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{329.23130234526644, 236.51771716347008}, {179.0059074656055, 53}}</string>
+					<string>{{329.23130234526644, 198.51771716347008}, {179.0059074656055, 53}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -4000,9 +4691,10 @@ IT Architektur}</string>
 						<key>Pad</key>
 						<real>6</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0 Modellierung }</string>
@@ -4014,7 +4706,7 @@ IT Architektur}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{38.333193723535885, 235.35323354286885}, {259.47192743534947, 53}}</string>
+					<string>{{38.333193723535885, 197.35323354286885}, {259.47192743534947, 53}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -4055,12 +4747,13 @@ IT Architektur}</string>
 						<key>Pad</key>
 						<real>15</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs36 \cf0 Kommunikation und \
+\f0\fs36 \cf0 Kommunikation und \
 Dokumentation}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
@@ -4070,7 +4763,7 @@ Dokumentation}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{36.131893981723977, 85.450629483879581}, {472.10531582914791, 53}}</string>
+					<string>{{36.131893981723977, 72.450629483879581}, {472.10531582914791, 53}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -4109,13 +4802,13 @@ Dokumentation}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs36 \cf0 Vorgehen
-\b0  bei Architekturentwicklung}</string>
+\f0\fs36 \cf0 Vorgehen bei Architekturentwicklung}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
@@ -4124,7 +4817,7 @@ Dokumentation}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{37.63189364644694, 160.40193151337422}, {470.60531616442495, 53}}</string>
+					<string>{{37.63189364644694, 134.40193151337422}, {470.60531616442495, 53}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -4163,14 +4856,13 @@ Dokumentation}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
-\f0\b\fs36 \cf0 Entwurf
-\b0 : Grundlagen,\
-Methoden, Muster}</string>
+\f0\fs36 \cf0 Entwurf: Grundlagen, Methoden, Muster}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
@@ -4216,9 +4908,10 @@ Methoden, Muster}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0 Architektur und Architekten }</string>
@@ -4230,7 +4923,7 @@ Methoden, Muster}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{232.2042355998114, 459.2762453224093}, {237.09695010720941, 53}}</string>
+					<string>{{233.42056579250021, 391.78938144165323}, {237.09695010720941, 53}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -4271,14 +4964,14 @@ Methoden, Muster}</string>
 						<key>Pad</key>
 						<real>15</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0 iSAQB\
-
-\b Curriculum}</string>
+Curriculum}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
@@ -4287,7 +4980,10 @@ Methoden, Muster}</string>
 				</dict>
 			</array>
 			<key>GridInfo</key>
-			<dict/>
+			<dict>
+				<key>ShowsGrid</key>
+				<string>YES</string>
+			</dict>
 			<key>HPages</key>
 			<integer>2</integer>
 			<key>KeepToScale</key>
@@ -4351,9 +5047,9 @@ Methoden, Muster}</string>
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>Frame</key>
-		<string>{{4, 0}, {1436, 900}}</string>
+		<string>{{135, 0}, {1220, 868}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>Sidebar</key>
@@ -4363,7 +5059,7 @@ Methoden, Muster}</string>
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-152.5, -131.5}, {922, 790}}</string>
+		<string>{{13, -66}, {706, 758}}</string>
 		<key>ZoomValues</key>
 		<array>
 			<array>
@@ -4390,7 +5086,7 @@ Methoden, Muster}</string>
 	<real>0.81999999284744263</real>
 	<key>exportSizesKey</key>
 	<array>
-		<real>0.52000045776367188</real>
+		<real>0.84999990463256836</real>
 		<string>png</string>
 	</array>
 	<key>fileFormatKey</key>
@@ -4418,7 +5114,7 @@ Methoden, Muster}</string>
 	<key>resolutionForJPGKey</key>
 	<real>1.3888888359069824</real>
 	<key>resolutionForPNGKey</key>
-	<real>1.3888888359069824</real>
+	<real>1</real>
 	<key>resolutionForTIFFKey</key>
 	<real>1</real>
 	<key>resolutionUnitsKey</key>
