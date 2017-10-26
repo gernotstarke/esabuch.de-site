@@ -57,3 +57,6 @@ auf - _DevOps_ sei Dank.
 ## Kostenia
 
 Über diese Insel mag ich hier nichts weiter schreiben. Es ist die Heimat der Managissimos – der Regenten der IT-Welt. Sie sorgen für Geld und Zeit in IT-Projekten. Wenn sie genug daran gedacht haben, sinnieren sie über Ressourcen. Und ab und zu organisieren sie auch die Zusammenarbeit von Bewohnern der verschiedenen Länder in der IT-Welt.
+
+Und wer immer noch glaubt, Politik sei in der Informatik eine Nebensache, lebt
+entweder im Schlaraffenland oder hinter dem Mond. 

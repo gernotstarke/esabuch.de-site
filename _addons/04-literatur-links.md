@@ -10,10 +10,14 @@ excerpt: "Links auf weitere Quellen..."
 Die Hyperlinks im Buch - hier sind sie _klickbar_:
 
 
-Hruschka, P., Starke, G.: arc42 – Ressourcen für Software-Architekten:
- [arc42.de](http://arc42.de) beziehungsweise [arc42.org](http://arc42.org). Praktische Beispiele für den Einsatz von arc42 finden Sie im eBook  [arc42-by-Example](https://leanpub.com/arc42byexample).
+[**arc42**](http://arc42.de) – Diverse Ressourcen für Softwarearchitektur,
+unter anderem ein pragmatisches Template zur Kommunikation/Dokumentation.
+Downloads auch zu finden unter [arc42.org](http://arc42.org).
 
-(Freie) Sammlung exemplarischer Qualitätsanforderungen verschiedener Kategorien, https://github.com/arc42/quality-requirements.
+Praktische Beispiele für den Einsatz des arc42 Templates finden Sie im eBook  [arc42-by-Example](https://leanpub.com/arc42byexample).
+
+[arc42 - Exemplarische Qualitätsanforderungen](https://github.com/arc42/quality-requirements).
+(Freie) Sammlung exemplarischer Qualitätsanforderungen an Software in Form von Qualitätsszenarien.
 
 Avram, A., Marinescu, F.: [Domain Driven Design Quickly](http://infoq.com/books/domain-driven-design-quickly).
 

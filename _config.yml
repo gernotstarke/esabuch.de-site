@@ -70,10 +70,14 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
+  - log
   - node_modules
   - package.json
   - Rakefile

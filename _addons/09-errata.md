@@ -17,8 +17,8 @@ von Leserinnen oder Lesern erhalten habe.
 ## Hinweise zur siebten Auflage (2015)
 
 * Es fehlen Hinweise auf Microservices und Self-Contained Systems.
-* Der Begriff _Kohäsion_ war zu schlecht erklärt
-* Domain-Driven Design war zu umständlich erklärt
+* Der Begriff _Kohäsion_ zu schlecht erklärt
+* Domain-Driven Design zu umständlich erklärt
 * SOLID-Prinzipien zu umständlich erklärt
 * diverse Querverweise stimmten nicht
 * diverse Literaturverweise waren veraltet
@@ -33,7 +33,9 @@ Hanser-Verlag unerkannt passieren können...
 Diese Auflage ist nicht mehr verfügbar, daher zähle ich nicht alle
 diese Fehler hier auf... aber danke an Prof. Erwin Mathis,
 Stefan Densow, Frédéric Bangerter, Manuel Stahl, Axel Utech, Jan Deinhard,
-Michael Fuhs, Frédéric Bangerter, Matthias Cavigelli, Mathias Lühr, Florian Winter, Holger Deierl, Jan Schenk sowie Julia Conradt
+Michael Fuhs, Matthias Cavigelli, Mathias Lühr, Florian Winter,
+Holger Deierl, Jan Schenk sowie Julia Conradt für ihre Rückmeldungen
+und Hinweise.
 
 
 ## Hinweise zur fünften Auflage (2012)

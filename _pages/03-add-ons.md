@@ -5,10 +5,8 @@ permalink: /addon/
 header:
   overlay_image: /images/esa-banner.png
 
-excerpt: "Zusatzinfos."
+excerpt: "zusätzliche Infos"
 ---
-
-Hier finden Sie zusätzliche Infos zum Buch.
 
 {% for addon in site.addons %}
 

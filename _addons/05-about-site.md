@@ -7,25 +7,32 @@ excerpt: "Ein Blick hinter die Kulissen..."
 
 ---
 
+Dies ist eine rein statische Website.
+
 ## Basis: Jekyll
-Ich erzeuge diese Site mit Hilfe von Jekyll,
+Ich erzeuge diese Site mit Hilfe von [Jekyll](https://jekyllrb.com/),
 einem Ruby-basierten, quelloffenen Site-Generator.
 
+
 ### Theme: MinimalMistakes
-Als "Theme" verwende ich MinimalMistakes, von Michael Rose.
+Als "Theme" verwende ich [MinimalMistakes](https://mmistakes.github.io/minimal-mistakes/),
+von Michael Rose.
+
 Das ist einerseits sehr flexibel, andererseits sehr robust.
 Sein css habe ich weitgehend intakt gelassen, nur header
 und footer der Site marginal an meine Bedürfnisse angepasst.
 
 Vor der esabuch.de Site habe ich mit diesem Theme bereits
 [arc42.org](http://arc42.org) und [aim42.org](http://aim42.org)
-gebaut - hatte also geringe Einarbeitungszeiten. 
+gebaut - hatte also geringe Einarbeitungszeiten.
 
-## Inhalt: Markdown (teilweise AsciiDoc)
-Den Inhalt schreibe ich in Markdown, teilweise in AsciiDoc.
+
+## Inhalt: Markdown
+Den Inhalt schreibe ich in Markdown. Irgendwann nehme ich das AsciiDoc
+PlugIn für Jekyll mit auf...
 
 ## Versionierung mit Git
-Alle Files liegen in einem (privaten) Github-Repository.
+Alle Files liegen in einem öffentlichen [Github-Repository](https://github.com/gernotstarke/esabuch.de-site).
 
 ## Rettung: Docker
 
@@ -50,6 +57,5 @@ koordiniert ein kleines Shell-Skript, was gerade zu tun ist:
 lauscht und bei Bedarf inkrementell die Site neu aufbaut. Hierbei werden
 alle Referenzen innerhalb der Site auf Links zu localhost (0.0.0.0:4000)
 gesetzt.
-* Generierung der _production site_, mit den passenden Settings 
+* Generierung der _production site_, mit den passenden Settings
 der Ziel-URL (http://esabuch.de).
-
