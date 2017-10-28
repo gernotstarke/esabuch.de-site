@@ -9,13 +9,13 @@
     {% endif %}
 
     <li><a href="{{ '/imprint' | absolute_url }}"><i class="fa fa-fw fa-legal" aria-hidden="true"></i> Impressum</a></li>
+    <li><a href="{{ '/imprint' | absolute_url }}"><i class="fa fa-fw fa-lock" aria-hidden="true"></i> Datenschutz</a></li>
 
     </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} Gernot Starke.
+<div class="page__footer-copyright">
+  <i class="fa fa-fw fa-copyright" aria-hidden="true"></i>{{ site.time | date: '%Y' }} Gernot Starke.
   Unterstützt von <a href="https://innoq.com"><b>innoQ</b></a>,
-  basiert auf <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
-<br><p>
-  <a href="{{ site.baseurl }}/imprint">Erklärung zum <b>Datenschutz</b></a>
+  powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
 </div>
