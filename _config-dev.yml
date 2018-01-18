@@ -73,7 +73,7 @@ exclude:
   - README
   - tmp
   - zz-originale
-  - zz-pages
+  - zz-production-site
 
 keep_files:
   - .git

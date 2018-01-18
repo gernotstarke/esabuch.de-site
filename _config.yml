@@ -1,9 +1,5 @@
-# Welcome to Jekyll!
+# Jekyll technical configuration!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
 locale                   : "de"
@@ -43,7 +39,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Gernot Starke"
-  avatar           : /mages/Gernot-avatar-2016.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/Gernot-avatar-2016.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Köln"
   email            : gs@gernotstarke.de
@@ -84,8 +80,8 @@ exclude:
   - README
   - tmp
   - zz-originale
-  - zz-pages
-  
+  - zz-production-site
+
 keep_files:
   - .git
 encoding: "utf-8"

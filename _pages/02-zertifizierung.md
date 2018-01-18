@@ -1,7 +1,7 @@
 ---
 title: iSAQB Zertifizierung
 layout: splash
-permalink: /zertifizierung.html
+permalink: /zertifizierung/
 header:
   overlay_image: /images/esa-banner.png
 

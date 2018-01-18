@@ -1,7 +1,7 @@
 ---
 title: "Meinungen zum Buch!"
 layout: single
-permalink: /meinungen.html
+permalink: /meinungen/
 excerpt: '<i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-empty" aria-hidden="true"></i>'
 header:
   overlay_image: /images/esa-banner.png

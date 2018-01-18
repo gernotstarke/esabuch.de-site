@@ -7,7 +7,7 @@ services:
   jekyll:
     build: .
     image: gernotstarke:esabuch-site
-    command: jekyll build --destination zz-site --no-watch
+    command: jekyll build --destination zz-production-site --no-watch
     volumes:
       - .:/srv/jekyll
       - $PWD/_config.yml:/srv/jekyll/_config.yml
