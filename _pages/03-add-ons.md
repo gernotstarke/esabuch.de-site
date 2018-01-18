@@ -8,6 +8,8 @@ header:
 excerpt: "zusätzliche Infos"
 ---
 
+{% include toc icon="sort-amount-asc" title="Themen" %}
+
 {% for addon in site.addons %}
 
 ### [{{ addon.title }}]({{ addon.url }})

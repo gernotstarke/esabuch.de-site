@@ -11,8 +11,8 @@ excerpt: "Bekannte Fehler(chen)..."
 
 ## Hinweise zur achten Auflage (2017)
 
-Diese Auflage ist so brandneu, dass ich noch keine Rückmeldungen
-von Leserinnen oder Lesern erhalten habe.
+* Beschriftungsfehler in Kap. 4.1.3.3, "ISP": Die Bilder 4.7 und 4.8 haben vertauschte Beschriftungen; die vermeintlich schlechte Umsetzung ist die gute (mit getrennten Interfaces) und umgekehrt (danke, Luca).
+
 
 ## Hinweise zur siebten Auflage (2015)
 
