@@ -21,7 +21,7 @@ echo
 echo "${GREEN}(b)build ${RESET} build the required docker image."
 echo
 echo "${RED}(p)production ${RESET} produces the site with production configuration,"
-echo "into ./zz-site directory."
+echo "into ./zz-production-site directory."
 echo "=================================================="
 echo
 

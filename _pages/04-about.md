@@ -93,7 +93,7 @@ lebenslauf:
 
     Verheiratet mit _Traumfrau Uli_, zwei (große) Kinder.
 
-    Überzeugter Kölner, Hobbysportler. Kocht gerne, konsumiert Krimis."
+    Überzeugter Kölner (ohne Karneval), Hobbysportler. Kocht gerne, konsumiert Krimis. Lieber Groovy als Java, Atom statt Emacs, IntelliJ statt Fernsehen."
 
 ---
 

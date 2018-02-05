@@ -14,7 +14,8 @@ Fehler hinzuweisen!
 
 ## Hinweise zur achten Auflage (2017)
 
-* Seite XIV, Link in Fußnote: Bis 5. Februar 2018 war das verlinkte [Repository]
+* Seite XIV, Link in Fußnote: Bis 5. Februar 2018 war das verlinkte
+[Repository](https://github.com/gernotstarke/esabuch.de-site)
 der Buch-Website _private_ - das habe ich mittlerweile korrigiert (Danke, ThomasM).
 * Beschriftungsfehler in Kap. 4.1.3.3, "ISP": Die Bilder 4.7 und 4.8 haben vertauschte Beschriftungen; die vermeintlich schlechte Umsetzung ist die gute (mit getrennten Interfaces) und umgekehrt (danke, Luca).
 
