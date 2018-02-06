@@ -73,12 +73,13 @@ training:
   - image_path: /images/about/training.jpg
     alt: Training
     title: Trainer ...
-    excerpt: 'Mehr als 15 Jahre Erfahrung mit praxisnahem Trainings und Schulungen,
+    excerpt: 'Mehr als 15 Jahre Erfahrung mit
+    [praxisnahen Trainings](http://arc42.de/termine) und Schulungen,
     Themenspektrum von Softwarearchitektur (foundation, advanced), Software-Engineering,
     Agilität, Zeitmanagement.<br><br>
 
     Erfahrung in Konzeption spezifischer IT-Curriculae für Unternehmen, strategische
-    Weiterbildung von IT-Personal. '
+    Weiterbildung von IT-Personal sowie IT-Themen für Management. '
 
 lebenslauf:
   - title: Lebenslauf

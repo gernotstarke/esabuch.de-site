@@ -2,16 +2,20 @@
 #
 # helper, so you don't need to remember docker-compose syntax...
 
+# what's the site?
+site="esabuch.de"
+
 # some colors to highlight certain output
 GREEN=`tput setaf 2`
 RED=`tput setaf 5`
+BLUE=`tput setaf 6`
 RESET=`tput sgr0`
 
 clear
 
 echo
-echo "Docker container to develop or build this website:"
-echo "=================================================="
+echo "Docker container to develop or build the ${BLUE}$site ${RESET}website:"
+echo "============================================================"
 echo
 echo "Please select wether to ${GREEN}develop ${RESET} or ${RED} build ${RESET} the site:"
 echo
