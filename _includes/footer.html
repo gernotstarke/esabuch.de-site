@@ -1,22 +1,24 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    <li><a href="{{ '/contact' | absolute_url }}"><i class="fa fa-fw fa-child" aria-hidden="true"></i> Kontakt</a></li>
+
     {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter" aria-hidden="true" style="color:blue"></i> Twitter</a></li>
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     {% endif %}
+
+    {% if site.author.github %}
+      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+
+    <li><a href="https://www.xing.com/xbp/pages/arc42"><i class="fab fa-fw fa-xing" aria-hidden="true"></i> Xing</a></li>
 
     <li><a href="{{ '/addons/00-errata.html' | absolute_url }}"><i class="fa fa-fw fa-exclamation-triangle" aria-hidden="true" style="color:red"></i> Errata</a></li>
-    <li><a href="{{ '/imprint' | absolute_url }}"><i class="fa fa-fw fa-legal" aria-hidden="true"></i> Impressum</a></li>
-    <li><a href="{{ '/imprint' | absolute_url }}"><i class="fa fa-fw fa-lock" aria-hidden="true"></i> Datenschutz</a></li>
 
-    </ul>
+    <li><a href="{{ '/imprint' | absolute_url }}"><i class="fas fa-fw fa-gavel" style="color:Tomato" aria-hidden="true"></i> Impressum & Datenschutz</a></li>
+  </ul>
 </div>
 
-<div class="page__footer-copyright">
-  <i class="fa fa-fw fa-copyright" aria-hidden="true"></i>{{ site.time | date: '%Y' }} Gernot Starke.
-  Unterstützt von <a href="https://innoq.com"><b>INNOQ</b></a>,
-  powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} Gernot Starke. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
+  <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+  Supported by <a href="https://INNOQ.com"><b>INNOQ</b></a>.
+
 </div>
