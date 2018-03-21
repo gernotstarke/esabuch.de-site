@@ -4,9 +4,9 @@
 version: '2'
 
 services:
-  jekyll:
+  esabuch-jekyll:
     build: .
-    image: gernotstarke:esabuch-site
+    image: esabuch-site
     command: jekyll build --destination zz-production-site --no-watch
     volumes:
       - .:/srv/jekyll

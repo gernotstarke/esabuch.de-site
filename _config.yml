@@ -1,6 +1,8 @@
 # Jekyll technical configuration!
 #
 
+theme: minimal-mistakes-jekyll
+
 # Site Settings
 locale                   : "de"
 title                    : "ESA"
@@ -121,7 +123,7 @@ collections:
    permalink: /:collection/:path.html
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
