@@ -3,10 +3,10 @@
 version: '2'
 
 services:
-  jekyll:
+  esabuch-jekyll:
     build: .
-    image: gernotstarke:esabuch-site
-    command: jekyll serve --trace --host 0.0.0.0 --watch --incremental
+    image: esabuch-site
+    command: jekyll serve --trace --host 0.0.0.0 --watch
     environment:
       - JEKYLL_ENV=development
     ports:

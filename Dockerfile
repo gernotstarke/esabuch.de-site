@@ -1,11 +1,16 @@
-FROM ruby:2.3-alpine
+FROM jekyll/builder
+
+LABEL version="0.8.0"
+LABEL description="develop and generate esabuch Website"
+LABEL vendor="Gernot Starke"
 
 COPY Gemfile .
-COPY Gemfile.lock .
 
 RUN apk update && \
-    apk add make gcc musl-dev nodejs python
-RUN bundle install
+    apk add ncurses && \
+# chmod a+w /srv/jekyll/ && \
+    bundle install
+
 
 WORKDIR /srv/jekyll
 EXPOSE 4000
