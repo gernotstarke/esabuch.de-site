@@ -8,7 +8,7 @@ header:
 excerpt: "Praktisch relevante Themenauswahl"
 ---
 
-{% include toc icon="sort-amount-asc" title="Kapitel" %}
+{% include toc title="Kapitel" %}
 
 ![](/images/wegweiser-ESA-8.png)
 

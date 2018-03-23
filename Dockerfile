@@ -8,7 +8,6 @@ COPY Gemfile .
 
 RUN apk update && \
     apk add ncurses && \
-# chmod a+w /srv/jekyll/ && \
     bundle install
 
 

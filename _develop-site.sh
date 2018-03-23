@@ -4,6 +4,8 @@
 
 # what's the site?
 site="esabuch.de"
+server="wp1063700.server-he.de"
+localdir="zz-production-site"
 
 # some colors to highlight certain output
 GREEN=`tput setaf 2`
@@ -26,6 +28,9 @@ echo "${GREEN}(b)build ${RESET} build the required docker image."
 echo
 echo "${RED}(p)production ${RESET} produces the site with production configuration,"
 echo "into ./zz-production-site directory."
+echo
+echo "${GREEN}(u)pload ${RESET} the generated site to $server."
+echo
 echo "=================================================="
 echo
 
@@ -45,9 +50,13 @@ case "$choice" in
                    docker-compose --file _docker-compose-dev.yml up
                    ;;
 
-  p|P|production)       echo "create production site"
+  p|P|production)  echo "create production site"
                    docker-compose --file _docker-compose-prod.yml up
                    docker-compose --file _docker-compose-prod.yml down
+                   ;;
+
+  u|U|upload)     echo "upload generated site to server"
+                   docker run -it gernotstarke/ftp-uploader:0.2 $site $server $localdir
                    ;;
 
   # catchall: abort

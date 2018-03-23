@@ -36,9 +36,9 @@ Vorbereitung auf die iSAQB CPSA-Foundation Zertifizierung.
 >
 > [Dr. Peter Hruschka](http://b-agile.de) (Gründungsmitglied iSAQB e.V.)
 
-**\<eigenwerbung\>**<p>
+**\<eigenwerbung\>**
 Natürlich würde ich mich sehr darüber freuen, Sie in einem meiner praxisorientierten
-und kurzweiligen [Trainings](http://arc42.de/termine) begrüßen zu dürfen!<p>
+und kurzweiligen [Trainings](http://arc42.de/termine) begrüßen zu dürfen!
 **\</eigenwerbung>\>**
 
 {% include feature_row id="certificate" type="left" %}
