@@ -32,7 +32,7 @@ kaufen:
      excerpt: '  
     * Beim [Hanser-Verlag](http://www.hanser-fachbuch.de/buch/Effektive+Softwarearchitekturen/9783446443617) direkt
 
-    * Bei [Amazon]()'    
+    * Bei [Amazon](https://www.amazon.de/Effektive-Softwarearchitekturen-Ein-praktischer-Leitfaden/dp/3446452079)'    
 
    - title: "Feedback?"
      excerpt: 'Kritik? Vorschläge? Fehler gefunden? Ich freue mich über Ihre Rückmeldung:
