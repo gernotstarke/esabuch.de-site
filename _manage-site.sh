@@ -56,7 +56,10 @@ case "$choice" in
                    ;;
 
   u|U|upload)     echo "upload generated site to server"
-                   docker run -it gernotstarke/ftp-uploader:0.2 $site $server $localdir
+  #docker run -it gernotstarke/ftp-uploader:0.2.1 \
+                   docker run -it ftp-uploader:0.2.1 \
+                   -v $localdir:$localdir \
+                   $site $server $localdir
                    ;;
 
   # catchall: abort
