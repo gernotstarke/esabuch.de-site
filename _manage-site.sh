@@ -6,6 +6,7 @@
 site="esabuch.de"
 server="wp1063700.server-he.de"
 localdir="zz-production-site"
+remotedir="."
 
 # some colors to highlight certain output
 GREEN=`tput setaf 2`
@@ -29,7 +30,7 @@ echo
 echo "${RED}(p)production ${RESET} produces the site with production configuration,"
 echo "into ./zz-production-site directory."
 echo
-echo "${GREEN}(u)pload ${RESET} the generated site to $server."
+echo "${GREEN}(u)pload ${RESET} the generated site to $server/$remotedir "
 echo
 echo "=================================================="
 echo
@@ -56,10 +57,10 @@ case "$choice" in
                    ;;
 
   u|U|upload)     echo "upload generated site to server"
-  #docker run -it gernotstarke/ftp-uploader:0.2.1 \
-                   docker run -it ftp-uploader:0.2.1 \
-                   -v $localdir:$localdir \
-                   $site $server $localdir
+                  docker run -it \
+                   --volume $PWD/$localdir:/$localdir \
+                   ftp-uploader:0.2.4 \
+                   $site $server $localdir $remotedir
                    ;;
 
   # catchall: abort
