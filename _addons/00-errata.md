@@ -25,6 +25,8 @@ der Buch-Website _private_ - das habe ich mittlerweile korrigiert (Danke, Thomas
 
 ## Hinweise zur siebten Auflage (2015)
 
+* In der Tabelle der Qualitätsmerkmale auf Seite 41 sind die Begriffe "Angemessenheit" und "Richtigkeit" andersherum definiert als z. B. bei [Wikipedia](https://de.wikipedia.org/wiki/ISO/IEC_9126). Danke für den Hinweis, Dirk.
+
 * Es fehlen Hinweise auf Microservices und Self-Contained Systems.
 * Der Begriff _Kohäsion_ zu schlecht erklärt
 * Domain-Driven Design zu umständlich erklärt
@@ -32,6 +34,7 @@ der Buch-Website _private_ - das habe ich mittlerweile korrigiert (Danke, Thomas
 * diverse Querverweise stimmten nicht
 * diverse Literaturverweise waren veraltet
 * Hinweise zu Generierungswerkzeugen fehlten
+
 
 ## Hinweise zur sechsten Auflage (2013)
 puh - in der sechsten Auflage habe ich riesig viel geändert, aktualisiert und (hoffentlich) verbessert.
