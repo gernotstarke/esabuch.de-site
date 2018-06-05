@@ -4,10 +4,11 @@ layout: single
 header:
   overlay_image: /images/esa-banner.png
 excerpt: "Bekannte Fehler(chen)..."
+toc: true
+toc_label: "Inhalt"
 
 ---
 
-{% include toc %}
 
 Ein großes Dankeschön an alle, die sich die Mühe gemacht haben, mich auf diese
 Fehler hinzuweisen!
