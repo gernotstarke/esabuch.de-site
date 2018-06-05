@@ -17,7 +17,7 @@ Fehler hinzuweisen!
 * Seite XIV, Link in Fußnote: Bis 5. Februar 2018 war das verlinkte
 [Repository](https://github.com/gernotstarke/esabuch.de-site)
 der Buch-Website _private_ - das habe ich mittlerweile korrigiert (Danke, ThomasM).
-* Beschriftungsfehler in Abschnitt 4.1.3.3, "ISP": Die Bilder 4.7 und 4.8 haben vertauschte Beschriftungen; die vermeintlich schlechte Umsetzung ist die gute (mit getrennten Interfaces) und umgekehrt (danke, Luca).
+* Beschriftungsfehler in Abschnitt 4.1.3.3, "ISP": Die Bilder 4.7 und 4.8 haben vertauschte Beschriftungen; die vermeintlich schlechte Umsetzung ist die gute (mit getrennten Interfaces) und umgekehrt (danke, Luca). Das war leider in der siebten Auflage schon falsch...
 * Beschriftungsfehler in Abschnitt 4.5.4 (Architekturstile verteilter Systeme): Die Zeile "serviceorientierte Architekturen" soll heissen "Microservice-Systeme".
 * Verweisfehler in Kapitel 5.1.2 (TOGAF), Seite 182: Dort wird im vorletzten Absatz auf Kapitel 10 verwiesen - es muss allerdings Kapitel 11 sein (Danke, Stefan Huth)
 
@@ -26,6 +26,7 @@ der Buch-Website _private_ - das habe ich mittlerweile korrigiert (Danke, Thomas
 ## Hinweise zur siebten Auflage (2015)
 
 * In der Tabelle der Qualitätsmerkmale auf Seite 41 sind die Begriffe "Angemessenheit" und "Richtigkeit" andersherum definiert als z. B. bei [Wikipedia](https://de.wikipedia.org/wiki/ISO/IEC_9126). Danke für den Hinweis, Dirk.
+* Beschriftungsfehler in Abschnitt 4.1.3.3, "ISP": Die Bilder 4.7 und 4.8 haben vertauschte Beschriftungen; die vermeintlich schlechte Umsetzung ist die gute (mit getrennten Interfaces) und umgekehrt (danke, Dino).
 
 * Es fehlen Hinweise auf Microservices und Self-Contained Systems.
 * Der Begriff _Kohäsion_ zu schlecht erklärt
