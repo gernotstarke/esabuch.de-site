@@ -4,10 +4,11 @@ layout: single
 header:
   overlay_image: /images/esa-banner.png
 excerpt: "Von Analytistan über Architektonien nach Prograland..."
+toc: true
+toc_label: "Inhalt"
 
 ---
 
-{% include toc %}
 
 ## In Kürze
 
@@ -59,4 +60,4 @@ auf - _DevOps_ sei Dank.
 Über diese Insel mag ich hier nichts weiter schreiben. Es ist die Heimat der Managissimos – der Regenten der IT-Welt. Sie sorgen für Geld und Zeit in IT-Projekten. Wenn sie genug daran gedacht haben, sinnieren sie über Ressourcen. Und ab und zu organisieren sie auch die Zusammenarbeit von Bewohnern der verschiedenen Länder in der IT-Welt.
 
 Und wer immer noch glaubt, Politik sei in der Informatik eine Nebensache, lebt
-entweder im Schlaraffenland oder hinter dem Mond. 
+entweder im Schlaraffenland oder hinter dem Mond.

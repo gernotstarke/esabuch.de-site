@@ -5,6 +5,9 @@ header:
   overlay_image: /images/esa-banner.png
 
 excerpt: "Kompakte Ratschläge, was Softwarearchitekten _tun_ (und _lassen_) sollten"
+toc: true
+toc_label: "Inhalt"
+
 ---
 
 Als Quellen für diese Ratschläge dienten neben meinem Buch und meiner Erfahrung
@@ -12,7 +15,6 @@ in Softwareprojekten das Twitterversum, [Simon Brown](https://twitter.com/simonb
 und ein schöner [Vortrag von Sönke Schwenk](https://twitter.com/ursenzler/status/879390512813395968/photo/1)
 von der DeveloperWeek 2017 (mitgeschrieben von Urs Enzler).
 
-{% include toc %}
 
 ## Handeln Sie aktiv
 Es gibt nichts geschenkt, und niemand (keiner, nirgendwer, nobody) wird Ihnen freiwillig und ohne Aufforderung Geld, Mitarbeiter, Kompetenz oder Mitspracherechte geben, wenn Sie nicht AKTIV danach fragen. Als Architekt müssen Sie entscheiden, mitreden, vermarkten, argumentieren und möglicherweise investieren – und dazu benötigen Sie Ressourcen und Kompetenzen. Handeln Sie aktiv – und holen Sie sich alles, was Sie für Ihre produktive Architekturarbeit benötigen! Warten Sie nicht darauf, dass Ihnen der Weihnachtsmann oder das Christkind oder der Osterhase solche Dinge schenkt – das passiert nur im Märchen (und die IT-Welt ist ziemlich märchenfrei ...)

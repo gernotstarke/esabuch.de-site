@@ -5,12 +5,13 @@ header:
   overlay_image: /images/esa-banner.png
 
 excerpt: "Desaster am Bau: Eine bösartige Geschichte über Hausbau und Architektur, sowie das Scheitern klassischer Vorgehensmodelle."
+toc: true
+toc_label: "Inhalt"
 
 ---
 
 Eine erfolgreiche Unternehmerin möchte sich ein Domizil errichten lassen. Enge Freunde raten ihr, ein Architekturbüro mit dem Entwurf zu betrauen und die Erstellung begleiten zu lassen. Nur so ließen sich die legendären Probleme beim Hausbau (ungeeignete Entwürfe, mangelnde Koordination, schlechte Ausführung, Pfusch bei Details, Kostenexplosion und Terminüberschreitung) vermeiden.
 
-{% include toc %}
 
 Um die für ihr Vorhaben geeigneten Architekten zu finden, beschließt sie, einigen namhaften Büros kleinere Testaufträge für Einfamilienhäuser zu erteilen. Natürlich verrät sie keinem der Kandidaten, dass diese Aufträge eigentlich Tests für das endgültige Unterfangen sind.
 

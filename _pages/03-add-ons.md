@@ -6,9 +6,9 @@ header:
   overlay_image: /images/esa-banner.png
 
 excerpt: "zusätzliche Infos"
+toc: true
+toc_label: "Themen"
 ---
-
-{% include toc icon="sort-amount-asc" title="Themen" %}
 
 {% for addon in site.addons %}
 

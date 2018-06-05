@@ -4,11 +4,10 @@ layout: single
 header:
   overlay_image: /images/esa-banner.png
 excerpt: "eine Retrospektive..."
-
-
+toc: true
+toc_label: "Inhalt"
 ---
 
-{% include toc %}
 
 ## 2002: Erste Auflage
 

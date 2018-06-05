@@ -6,9 +6,10 @@ header:
   overlay_image: /images/esa-banner.png
 
 excerpt: "Praktisch relevante Themenauswahl"
+toc: true
+toc_label: "Kapitel"
 ---
 
-{% include toc title="Kapitel" %}
 
 ![](/images/wegweiser-ESA-8.png)
 
