@@ -10,7 +10,7 @@ title                    : "ESA"
 title_separator          : "-"
 name                     : ""
 description              : "Effektive Softwarearchitekturen"
-url                      : "http://esabuch.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gernotstarke.github.io/esabuch.de-site" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : "gernotstarke/esabuch.de-site" # GitHub username/repo-name
 teaser                   : /images/esa-banner.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -61,25 +61,16 @@ exclude:
   - Dockerfile
   - _docker-compose*
   - _develop-site.sh
-  - Dockerfile
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
   - config
   - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
   - LICENSE
   - log
   - node_modules
   - package.json
-  - Rakefile
   - README
   - tmp
   - zz-originale
