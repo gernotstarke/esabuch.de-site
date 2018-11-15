@@ -117,4 +117,4 @@ lebenslauf:
 
 #### Page Statistics
 
-This site was last built on {{ date: '%c' }}
+This site was last built on {{ site.time | date: '%d-%m-%Y' }}
