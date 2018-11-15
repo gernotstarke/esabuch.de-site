@@ -22,8 +22,14 @@ der Buch-Website _private_ - das habe ich mittlerweile korrigiert (Danke, Thomas
 können Szenarien auslösen oder starten, nicht nur Stakeholder. (Danke, Sophie!)
 * Beschriftungsfehler in Abschnitt 4.1.3.3, "ISP": Die Bilder 4.7 und 4.8 haben vertauschte Beschriftungen; die vermeintlich schlechte Umsetzung ist die gute (mit getrennten Interfaces) und umgekehrt (danke, Luca). Das war leider in der siebten Auflage schon falsch...
 * Beschriftungsfehler in Abschnitt 4.5.4 (Architekturstile verteilter Systeme): Die Zeile "serviceorientierte Architekturen" soll heissen "Microservice-Systeme".
+* In Abbildung 4.9 auf Seite 76 (schlechte Abhängigkeiten) steht in der zweiten Ebene versehentlich zweimal "Funktion-3" - der mittlere Kasten soll korrekt mit "Funktion-2" beschriftet sein. (Danke, Christoph Raaflaub)
 * Verweisfehler in Kapitel 5.1.2 (TOGAF), Seite 182: Dort wird im vorletzten Absatz auf Kapitel 10 verwiesen - es muss allerdings Kapitel 11 sein (Danke, Stefan Huth)
 
+#### Kapitel 8, Architekturbewertung
+
+Im Kapitel 8 verwende ich ständig die Abkürzung ATAM, ohne sie zu erklären - sorry:
+ATAM steht für _Architecture Tradeoff Analysis Method_ - es geht um qualitative
+Architekturbewertung und die Suche nach Risiken und Abwägungen/Kompromissen. (auch dieser Bug ist Christoph Raaflaub aufgefallen)
 
 
 ## Hinweise zur siebten Auflage (2015)

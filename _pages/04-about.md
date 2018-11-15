@@ -113,3 +113,8 @@ lebenslauf:
 {% include feature_row id="training" type="left" %}
 
 {% include feature_row id="lebenslauf" type="center" %}
+
+
+#### Page Statistics
+
+This site was last built on {{ date: '%c' }}
