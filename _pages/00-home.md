@@ -37,7 +37,7 @@ kaufen:
    - title: "Feedback?"
      excerpt: 'Kritik? Vorschläge? Fehler gefunden? Ich freue mich über Ihre Rückmeldung:
 
-     <form method="POST" action="http://formspree.io/gs@gernotstarke.de">
+     <form action="https://formspree.io/gs@gernotstarke.de" method="POST" >
         <input type="email" name="email" placeholder="Ihre Email">
         <textarea name="message" placeholder="Ihr Kommentar zum Buch..."></textarea>
         <button type="submit">Absenden</button>

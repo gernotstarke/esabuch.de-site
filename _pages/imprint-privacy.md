@@ -16,7 +16,7 @@ Dr. Gernot Starke, Willi-Lauf Allee 43, D-50858 Köln
 #### Kontakt
 
 Telefon: +49 177 728 2570<br>
-e-Mail: <a href="{{ mailto:gs@gernotstarke.de| absolute_url}}><i class="fa fa-fw fa-envelope"></i>Email </a>
+e-Mail: <a href="xmxaxixlxtxo:xgxsx@xgxexrxnxoxtxsxtxaxrxkxex.xdxe" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>(Adresse gegen Spam gesichert)</a>
 <br>
 
 #### Verantwortlich nach § 6 Abs.2 MDStV
@@ -37,7 +37,7 @@ Der Anbieter (beziehungsweise sein Webspace-Provider) erhebt Daten über jeden Z
 <br />
 Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.<br/>
 <br/>
-Der Anbieter verwendet die Protokolldaten nur für statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der Optimierung des Angebotes. Der Anbieterbehält sich jedoch vor, die Protokolldaten nachträglich zu überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.
+Der Anbieter verwendet die Protokolldaten nur für statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der Optimierung des Angebotes. Der Anbieter behält sich jedoch vor, die Protokolldaten nachträglich zu überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.
 
 #### Kontaktaufnahme
 Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
