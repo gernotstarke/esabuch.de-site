@@ -7,6 +7,7 @@ excerpt: "ein Experiment..."
 ---
 <div class="timeline">
   <div class="container left">
+  <h2>IMPROVE (CPSA-Advanced)</h2>
   <h2>13.-15. März 2019, München</h2>
     <div class="content">
     Das dynamische Duo, Gernot Starke und Peter Hruschka.
