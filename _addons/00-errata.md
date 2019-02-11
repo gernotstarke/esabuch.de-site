@@ -24,6 +24,7 @@ können Szenarien auslösen oder starten, nicht nur Stakeholder. (Danke, Sophie!
 * Beschriftungsfehler in Abschnitt 4.5.4 (Architekturstile verteilter Systeme): Die Zeile "serviceorientierte Architekturen" soll heissen "Microservice-Systeme".
 * In Abbildung 4.9 auf Seite 76 (schlechte Abhängigkeiten) steht in der zweiten Ebene versehentlich zweimal "Funktion-3" - der mittlere Kasten soll korrekt mit "Funktion-2" beschriftet sein. (Danke, Christoph Raaflaub)
 * Verweisfehler in Kapitel 5.1.2 (TOGAF), Seite 182: Dort wird im vorletzten Absatz auf Kapitel 10 verwiesen - es muss allerdings Kapitel 11 sein (Danke, Stefan Huth)
+* Security Patterns, Seite 287: Dort ist von Kompromittierung die Rede, statt von Kompromiss! Einen Unterpunkt weitre lauert noch ein Rechtschreibfehler ("attratkives"). Danke, Marcel Normann)
 
 #### Kapitel 8, Architekturbewertung
 
