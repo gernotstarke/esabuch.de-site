@@ -30,7 +30,7 @@ kaufen:
    - image_path: /images/esa-8-cover.png
    - title: "Kaufen"
      excerpt: '  
-    * Beim [Hanser-Verlag](http://www.hanser-fachbuch.de/buch/Effektive+Softwarearchitekturen/9783446443617) direkt
+    * Beim [Hanser-Verlag](https://www.hanser-fachbuch.de/buch/Effektive+Softwarearchitekturen/9783446452077) direkt
 
     * Bei [Amazon](https://www.amazon.de/Effektive-Softwarearchitekturen-Ein-praktischer-Leitfaden/dp/3446452079)'    
 
