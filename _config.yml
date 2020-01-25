@@ -46,12 +46,12 @@ author:
   bio              : ""
   location         : "Köln"
   email            : gs@gernotstarke.de
-  uri              : http://gernotstarke.de
+  uri              : https://gernotstarke.de
   github           : gernotstarke
   google_plus      :
   stack_overflow   :
   twitter          : gernotstarke
-  xing             : gernotstarke
+  xing             : 
 
 # Reading Files
 include:
