@@ -13,8 +13,10 @@ toc_label: "Inhalt"
 Ein großes Dankeschön an alle, die sich die Mühe gemacht haben, mich auf diese
 Fehler hinzuweisen!
 
+
 ## Hinweise zur achten Auflage (2017)
 
+* Im Index auf Seite 433 ist arc24 als Eintrag genannt - gemeint ist natürlich arc42. (Danke an Max Gänger).
 * Seite XIV, Link in Fußnote: Bis 5. Februar 2018 war das verlinkte
 [Repository](https://github.com/gernotstarke/esabuch.de-site)
 der Buch-Website _private_ - das habe ich mittlerweile korrigiert (Danke, ThomasM).
