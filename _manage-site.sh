@@ -30,8 +30,6 @@ echo
 echo "${RED}(p)production ${RESET} produces the site with production configuration,"
 echo "into ./zz-production-site directory."
 echo
-echo "${GREEN}(u)pload ${RESET} the generated site to $server/$remotedir "
-echo
 echo "=================================================="
 echo
 
@@ -56,12 +54,6 @@ case "$choice" in
                    docker-compose --file _docker-compose-prod.yml down
                    ;;
 
-  u|U|upload)     echo "upload generated site to server"
-                  docker run -it \
-                   --volume $PWD/$localdir:/$localdir \
-                   ftp-uploader:0.2.4 \
-                   $site $server $localdir $remotedir
-                   ;;
 
   # catchall: abort
   *)               echo "${RED} unknown option $choice ${RESET}, aborted."

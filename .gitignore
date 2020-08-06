@@ -2,3 +2,6 @@ _site
 .sass-cache
 zz-site
 zz-production-site
+.jekyll-cache/Jekyll
+zz-originale/.DS_Store
+.DS_Store
