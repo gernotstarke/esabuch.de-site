@@ -2,7 +2,7 @@
 title: Intro-Story
 layout: single
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 
 excerpt: "Desaster am Bau: Eine bösartige Geschichte über Hausbau und Architektur, sowie das Scheitern klassischer Vorgehensmodelle."
 toc: true
