@@ -1,14 +1,12 @@
-FROM jekyll/builder
+FROM jekyll/jekyll
 
-LABEL version="0.8.0"
+LABEL version="0.9"
 LABEL description="develop and generate esabuch Website"
 LABEL vendor="Gernot Starke"
 
 COPY Gemfile .
 
-RUN apk update && \
-    apk add ncurses && \
-    bundle install
+RUN gem install bundler:1.16.1 && bundle && bundle update --bundler
 
 
 WORKDIR /srv/jekyll
