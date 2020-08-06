@@ -2,7 +2,7 @@
 title: Frühere Auflagen
 layout: single
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 excerpt: "eine Retrospektive..."
 toc: true
 toc_label: "Inhalt"

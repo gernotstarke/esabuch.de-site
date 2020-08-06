@@ -3,7 +3,7 @@ title: Inhalt
 layout: splash
 permalink: /inhalt/
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 
 excerpt: "Praktisch relevante Themenauswahl"
 toc: true

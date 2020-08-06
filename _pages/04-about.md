@@ -3,7 +3,7 @@ title: Dr. Gernot Starke
 layout: splash
 permalink: /about/
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 
 
 gernot:

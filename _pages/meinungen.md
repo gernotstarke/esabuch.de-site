@@ -4,7 +4,7 @@ layout: single
 permalink: /meinungen/
 excerpt: '<i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-empty" aria-hidden="true"></i>'
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 ---
 
 # Leserstimmen :+1:

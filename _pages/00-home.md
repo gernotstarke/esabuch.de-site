@@ -3,7 +3,7 @@ title: Effektive Softwarearchitekturen
 layout: splash
 permalink: /
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 excerpt: "**Ein praktischer Leitfaden**"
 
 

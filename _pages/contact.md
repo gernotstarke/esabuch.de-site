@@ -3,7 +3,7 @@ title: "Kontaktieren Sie mich!"
 layout: single
 permalink: /contact/
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 ---
 
 

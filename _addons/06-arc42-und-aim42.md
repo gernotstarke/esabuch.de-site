@@ -2,7 +2,7 @@
 title: arc42 und aim42
 layout: single
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 excerpt: "arc42 und aim42..."
 
 

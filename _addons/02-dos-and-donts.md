@@ -2,7 +2,7 @@
 title: Dos and Don'ts von Softwarearchitektur
 layout: single
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 
 excerpt: "Kompakte Ratschläge, was Softwarearchitekten _tun_ (und _lassen_) sollten"
 toc: true

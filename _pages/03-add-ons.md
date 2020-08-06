@@ -3,7 +3,7 @@ title: Add-Ons
 layout: single
 permalink: /addons/
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 
 excerpt: "zusätzliche Infos"
 toc: true

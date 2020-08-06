@@ -2,7 +2,7 @@
 title: Timeline
 layout: single
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 excerpt: "ein Experiment..."
 ---
 <div class="timeline">

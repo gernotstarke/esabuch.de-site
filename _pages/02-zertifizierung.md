@@ -3,11 +3,9 @@ title: iSAQB Zertifizierung
 layout: splash
 permalink: /zertifizierung/
 header:
-  overlay_image: /images/esa-banner.png
+  overlay_image: /images/site-header.png
 
-excerpt: "Grundlage für Ausbildung zum<br>
-**Certified Professional for Sofware Architecture-<br>
-Foundation Level**."
+excerpt: "Grundlage für CPSA-Prüfung"
 
 certificate:
   - image_path: /images/certification/cpsa-f-logo.png
@@ -81,7 +79,7 @@ die erläutert einerseits die drei Typen von Prüfungsfragen, andererseits
 finden Sie dort einige (einfache!) Beispielfragen.
 
 Zu finden ist dieses Dokument im offiziellen
-[Dokumente-Ordner der iSAQB-Website](http://www.isaqb.org/documents/).
+[Github-Repository der iSAQB](https://isaqb-org.github.io/curriculum-foundation/).
 
 
 ## Und dann ...
