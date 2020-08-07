@@ -57,5 +57,5 @@ koordiniert ein kleines Shell-Skript, was gerade zu tun ist:
 lauscht und bei Bedarf inkrementell die Site neu aufbaut. Hierbei werden
 alle Referenzen innerhalb der Site auf Links zu localhost (0.0.0.0:4000)
 gesetzt.
-* Generierung der _production site_, mit den passenden Settings
-der Ziel-URL (http://esabuch.de).
+* Die _production site_ wird aktuell von Netlify  (https://netlify.com) gebaut und gehostet. 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0f6be4f-6dca-4fc3-868c-b59d07e857b8/deploy-status)](https://app.netlify.com/sites/esabuch-site/deploys)
