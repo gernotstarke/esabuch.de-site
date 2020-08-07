@@ -13,27 +13,32 @@ toc_label: "Inhalt"
 Ein großes Dankeschön an alle, die sich die Mühe gemacht haben, mich auf diese
 Fehler hinzuweisen!
 
+## Hinweise zur neunten Auflage (2020)
+
+* Seite 358, Kasten "Tipps für Enterprise-Architekten": die Fußnoten sind (immer noch) vertauscht. Danke an Sascha Wiedenfeld. 
+
 
 ## Hinweise zur achten Auflage (2017)
 
-* Im Index auf Seite 433 ist arc24 als Eintrag genannt - gemeint ist natürlich arc42. (Danke an Max Gänger).
+* Seite 356, Kasten "Tipps für Enterprise-Architekten": die Fußnoten (* und **) sind vertauscht. Danke an Sascha Wiedenfeld. 
+* Im Index auf Seite 433 ist arc24 als Eintrag genannt - gemeint ist natürlich arc42. Danke an Max Gänger.
 * Seite XIV, Link in Fußnote: Bis 5. Februar 2018 war das verlinkte
 [Repository](https://github.com/gernotstarke/esabuch.de-site)
-der Buch-Website _private_ - das habe ich mittlerweile korrigiert (Danke, ThomasM).
+der Buch-Website _private_ - das habe ich mittlerweile korrigiert Danke, ThomasM.
 * Seite 43 oben: Die Anmerkung zu _Szenarien_ sollte um weitere mögliche Auslöser erweitert werden: Also auch Umsysteme oder zeitliche Trigger
-können Szenarien auslösen oder starten, nicht nur Stakeholder. (Danke, Sophie!)
+können Szenarien auslösen oder starten, nicht nur Stakeholder. Danke, Sophie!
 * Beschriftungsfehler in Abschnitt 4.1.3.3, "ISP": Die Bilder 4.7 und 4.8 haben vertauschte Beschriftungen; die vermeintlich schlechte Umsetzung ist die gute (mit getrennten Interfaces) und umgekehrt (danke, Luca). Das war leider in der siebten Auflage schon falsch...
 * Beschriftungsfehler in Abschnitt 4.5.4 (Architekturstile verteilter Systeme): Die Zeile "serviceorientierte Architekturen" soll heissen "Microservice-Systeme".
-* In Abbildung 4.9 auf Seite 76 (schlechte Abhängigkeiten) steht in der zweiten Ebene versehentlich zweimal "Funktion-3" - der mittlere Kasten soll korrekt mit "Funktion-2" beschriftet sein. (Danke, Christoph Raaflaub)
-* Verweisfehler in Kapitel 5.1.2 (TOGAF), Seite 182: Dort wird im vorletzten Absatz auf Kapitel 10 verwiesen - es muss allerdings Kapitel 11 sein (Danke, Stefan Huth)
-* Security Patterns, Seite 287: Dort ist von Kompromittierung die Rede, statt von Kompromiss! Einen Unterpunkt weitre lauert noch ein Rechtschreibfehler ("attratkives"). Danke, Marcel Normann)
+* In Abbildung 4.9 auf Seite 76 (schlechte Abhängigkeiten) steht in der zweiten Ebene versehentlich zweimal "Funktion-3" - der mittlere Kasten soll korrekt mit "Funktion-2" beschriftet sein. Danke, Christoph Raaflaub.
+* Verweisfehler in Kapitel 5.1.2 (TOGAF), Seite 182: Dort wird im vorletzten Absatz auf Kapitel 10 verwiesen - es muss allerdings Kapitel 11 sein. Danke, Stefan Huth.
+* Security Patterns, Seite 287: Dort ist von Kompromittierung die Rede, statt von Kompromiss! Einen Unterpunkt weitre lauert noch ein Rechtschreibfehler ("attratkives"). Danke, Marcel Normann.
 * Seite 287, Abschnitt 7.8.5: Hier haben sich ein paar Literaturhinweise verirrt, die ich gar nicht mehr zitieren wollte (Schmeh, SigG/SigV sowie SSH). Danke, Thekla.
 
 #### Kapitel 8, Architekturbewertung
 
 Im Kapitel 8 verwende ich ständig die Abkürzung ATAM, ohne sie zu erklären - sorry:
 ATAM steht für _Architecture Tradeoff Analysis Method_ - es geht um qualitative
-Architekturbewertung und die Suche nach Risiken und Abwägungen/Kompromissen. (auch dieser Bug ist Christoph Raaflaub aufgefallen)
+Architekturbewertung und die Suche nach Risiken und Abwägungen/Kompromissen. Auch dieser Bug ist Christoph Raaflaub aufgefallen.
 
 
 ## Hinweise zur siebten Auflage (2015)
