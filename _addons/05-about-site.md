@@ -59,3 +59,7 @@ alle Referenzen innerhalb der Site auf Links zu localhost (0.0.0.0:4000)
 gesetzt.
 * Die _production site_ wird aktuell von Netlify  (https://netlify.com) gebaut und gehostet. 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d0f6be4f-6dca-4fc3-868c-b59d07e857b8/deploy-status)](https://app.netlify.com/sites/esabuch-site/deploys)
+
+
+### Letzte Änderung
+This site was last built on {{ site.time | date: '%d-%M-%Y' }}

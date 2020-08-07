@@ -10,7 +10,7 @@ gernot:
   - image_path: /images/about/gernot-portrait.jpg
     alt: Gernot Starke
     title: Softwarearchitekt.
-    excerpt: '[innoQ-Fellow](https://www.innoq.com/de/staff/gernot-starke/).
+    excerpt: '[INNOQ-Fellow](https://www.innoq.com/de/staff/gernot-starke/).
     Coach und Consultant für Softwareprojekte, berät Organisationen
     aus unterschiedlichen Branchen, mit Fokus _Informationssysteme_.
 
@@ -30,7 +30,7 @@ arc42:
     - image_path: /images/about/arc42-logo.jpg
       alt: arc42
       title: (Mit-)Gründer von arc42.
-      excerpt: '**[arc42](http://arc42.org), das** Template zur Kommunikation und Dokumentation von Softwarearchitekturen.
+      excerpt: '**[arc42](https://arc42.org), das** Template zur Kommunikation und Dokumentation von Softwarearchitekturen.
 
 
       arc42 verbessert Überblick und Verständnis von IT-Systemen.
@@ -40,7 +40,7 @@ aim42:
    - image_path: /images/about/aim42-logo.png
      alt: aim42
      title: Verbessert bestehende Systeme.
-     excerpt: 'Gründer von [aim42](http://aim42.org), der _architecture improvement method_.
+     excerpt: 'Gründer von [aim42](https://aim42.org), der _architecture improvement method_.
      aim42 unterstützt bei der systematischen Verbesserung, Modernisierung, Renovierung
      bestehender Systeme und basiert auf etablierten Grundlagen sowie
      langjähriger Praxiserfahrung.
@@ -66,7 +66,7 @@ buecher:
    - image_path: /images/about/buch-cover-grid.png
      alt: Buecher
      title: Schreibt Bücher...
-     excerpt: '..zu Architektur, arc42, Software-Engineering, Patterns, Zertifizierung, agilem Vorgehen.'
+     excerpt: '..zu Themen rund um Softwarearchitektur, arc42, Software-Reviews, Patterns. Eine [Übersicht dazu](https://gernotstarke.de/buecher)'
 
 
 training:
@@ -74,8 +74,8 @@ training:
     alt: Training
     title: Trainer ...
     excerpt: 'Mehr als 15 Jahre Erfahrung mit
-    [praxisnahen Trainings](http://arc42.de/termine) und Schulungen,
-    Themenspektrum von Softwarearchitektur (foundation, advanced), Software-Engineering,
+    [praxisnahen Trainings](https://arc42.de/termine) und Schulungen,
+    Themenspektrum von Softwarearchitektur (Foundation, Advanced IMPROVE, ADOC, Req4Arc), Software-Engineering,
     Agilität, Zeitmanagement.<br><br>
 
     Erfahrung in Konzeption spezifischer IT-Curriculae für Unternehmen, strategische
@@ -89,12 +89,12 @@ lebenslauf:
     Entwickler, Berater und Projektleiter der Schumann Unternehmensberatung AG,
     technischer Leiter des Object Reality Center, einer Kooperation von Sun Microsystems,
     Berater und Softwarearchitekt für blueCarat, langjährige Selbständigkeit,
-    innoQ Fellow.
+    [INNOQ Fellow](https://www.innoq.com/de/staff/gernot-starke/).
 
 
     Verheiratet mit _Traumfrau Uli_, zwei (große) Kinder.
 
-    Überzeugter Kölner (ohne Karneval), Hobbysportler. Kocht gerne, konsumiert Krimis. Lieber Groovy als Java, Atom statt Emacs, IntelliJ statt Fernsehen."
+    Überzeugter Kölner (ohne Karneval), Hobbysportler. Kocht gerne, konsumiert Krimis. Lieber Groovy als Java, VS-Code statt Emacs, IntelliJ statt Fernsehen."
 
 ---
 
@@ -115,6 +115,3 @@ lebenslauf:
 {% include feature_row id="lebenslauf" type="center" %}
 
 
-#### Page Statistics
-
-This site was last built on {{ site.time | date: '%d-%m-%Y' }}
