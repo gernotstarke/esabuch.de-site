@@ -15,8 +15,20 @@ Fehler hinzuweisen!
 
 ## Hinweise zur neunten Auflage (2020)
 
+Und auch in der neunten Auflage sind wieder ein paar Fehlerchen enthalten - die nette Leser:innen gefunden und gemeldet haben:
+
+* Seite 85 spricht von _Call-Data-Records_, zwei Seiten später (Seite 87) von _Call-Date-Records_ 
+* Seite 137 der Verweis auf [Siedersleben04] fehlt im Literaturverzeichnis: Johannes Siedersleben: Moderne Software-Architektur: Umsichtig planen, robust bauen mit Quasar. dpunkt Verlag, 2004.
+* Seite 173, zweiter und der dritter Spiegelstrich deckungsgleich
+* Seite 225, das Apple Betriebssystem heisst macOS, nicht MacOS
+* Seite 243, es heisst Unicode, nicht UniCode
+* Seite 273, Tippfehler "Authentizität" statt "Authentiztät".
+* Seite 289, NullPointerException statt "Null Point Exception"
+* Seite 307: "besser" statt "besder"
+* Seite 317: "dser"?? Was soll das nur bedeuten...
 * Seite 358, Kasten "Tipps für Enterprise-Architekten": die Fußnoten sind (immer noch) vertauscht. Danke an Sascha Wiedenfeld. 
 
+Danke an Jochen Zilske!
 
 ## Hinweise zur achten Auflage (2017)
 
