@@ -3,10 +3,7 @@
 # helper, so you don't need to remember docker-compose syntax...
 
 # what's the site?
-site="esabuch.de"
-server="wp1063700.server-he.de"
-localdir="zz-production-site"
-remotedir="."
+site="canvas.arc42.org"
 
 # some colors to highlight certain output
 GREEN=`tput setaf 2`
@@ -27,8 +24,7 @@ echo "which performs incremental builds and listens for file changes."
 echo
 echo "${GREEN}(b)build ${RESET} build the required docker image."
 echo
-echo "${RED}(p)production ${RESET} produces the site with production configuration,"
-echo "into ./zz-production-site directory."
+echo "${GREEN}(r)emove ${RESET} the running docker container."
 echo
 echo "=================================================="
 echo
@@ -42,17 +38,16 @@ fi
 
 case "$choice" in
   b|B|build) echo "build Docker image"
-                     docker-compose --file _docker-compose-dev.yml build --force-rm
+                     docker-compose --file docker-compose.yml build --force-rm
                      ;;
 
   d|D|dev|develop) echo "develop, incremental build"
-                   docker-compose --file _docker-compose-dev.yml up
+                   docker-compose --file docker-compose.yml up
                    ;;
 
-  p|P|production)  echo "create production site"
-                   docker-compose --file _docker-compose-prod.yml up
-                   docker-compose --file _docker-compose-prod.yml down
-                   ;;
+  r|R|remove) echo "remove running docker container"
+             docker-compose --file docker-compose.yml down
+             ;;
 
 
   # catchall: abort
