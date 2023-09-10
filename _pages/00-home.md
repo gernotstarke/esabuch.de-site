@@ -3,7 +3,11 @@ title: Effektive Softwarearchitekturen
 layout: splash
 permalink: /
 header:
-  overlay_image: /images/site-header.png
+  overlay_image: /images/site-header-long.png
+  actions:
+    - label: "Kontakt"
+      url: /contact
+
 excerpt: "**Ein praktischer Leitfaden**"
 
 
