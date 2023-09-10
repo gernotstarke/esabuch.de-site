@@ -20,4 +20,4 @@ header:
 * [<i class="fab fa-fw fa-github"></i>Github](https://github.com/gernotstarke)
 
 
-Bitte beachten Sie die <a href="{{ site.baseurl }}/imprint">Datenschutzrichtlinie.</a>.
+Bitte beachten Sie die <a href="{{ site.baseurl }}/imprint">Datenschutzrichtlinie</a>.
