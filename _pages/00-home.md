@@ -11,30 +11,10 @@ header:
 excerpt: "**Ein praktischer Leitfaden**"
 
 
-feature_row:
-  - title: "Lesen"
-    excerpt: "Über 400 Seiten, 16 klar strukturierte Kapitel, viele
-    konkrete Praxistipps, inklusive praktischer Beispiele."
-    url: /inhalt
-    btn_label: "Inhalt"
-    btn_class: "btn--primary"
-
-  - title: "Lernen"
-    excerpt: "Alle prüfungsrelevanten Grundlagen, ideal zur Vorbereitung
-    auf die iSAQB CPSA-Foundation Zertifizierung."
-    url: "/zertifizierung"
-    btn_label: "Prüfungsvorbereitung"
-    btn_class: "btn--primary"
-
-  - title: "Nutzen"
-    excerpt: "Praxisrelevante Inhalte, zahlreiche Tipps. <br><br>Basiert auf Erfahrung
-    aus zahlreichen Entwicklungsprojekten."
-    url: "/meinungen"
-    btn_label: "Leserstimmen"
-    btn_class: "btn--primary"
 
 kaufen:
    - image_path: /images/esa-cover.png
+     image_class: "bookcover-max"
    - title: "Kaufen"
      excerpt: '
      <a href="https://www.hanser-fachbuch.de/fachbuch/artikel/9783446463769"
@@ -63,6 +43,85 @@ kaufen:
 # Was Sie über Softwarearchitektur wissen sollten...
 
 
-{% include feature_row %}
+<div class="feature-box">
+
+
+
+<div class="feature__wrapper_noline">
+
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Lesen</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Über 400 Seiten, 16 klar strukturierte Kapitel, viele konkrete Praxistipps, inklusive praktischer Beispiele.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/inhalt" class="btn btn--primary">Inhalt</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Lernen</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Alle prüfungsrelevanten Grundlagen, ideal zur Vorbereitung auf die iSAQB CPSA-Foundation Zertifizierung.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/zertifizierung" class="btn btn--primary">Prüfungsvorbereitung</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Nutzen</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Praxisrelevante Inhalte, zahlreiche Tipps. <br /><br />Basiert auf Erfahrung aus zahlreichen Entwicklungsprojekten.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/meinungen" class="btn btn--primary">Leserstimmen</a></p>
+          
+        </div>
+      </div>
+    </div>
+
+</div>
+</div>
+
+
 
 {% include feature_row id="kaufen"%}

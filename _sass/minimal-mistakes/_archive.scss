@@ -248,6 +248,14 @@
   }
 }
 
+.feature__wrapper_noline {
+  @include clearfix();
+
+  .archive__item-title {
+    margin-bottom: 0;
+  }
+}
+
 .feature__item {
   position: relative;
   margin-bottom: 2em;

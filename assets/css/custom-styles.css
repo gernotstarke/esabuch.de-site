@@ -1,0 +1,13 @@
+@media (max-width: 600px) {
+    .bookcover-max {
+        max-width: 250px;
+    }
+}
+
+.feature-box {
+    border: 1px solid #CA2A1D;
+    border-radius: 5px;
+    padding: 30px 30px 0 30px;
+    margin-bottom: 30px;
+    background: rgba(9, 60, 92, 0.1);
+}
