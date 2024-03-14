@@ -30,7 +30,7 @@ erfahrung:
      betriebswirtschaftlichem Verständnis. Dolmetscher zwischen Fachbereich und IT.'
 
 arc42:
-    - image_path: /images/about/arc42-logo.jpg
+    - image_path: /images/about/arc42-logo.png
       alt: arc42
       title: (Mit-)Gründer von arc42.
       excerpt: '**[arc42](https://arc42.org), das** Template zur Kommunikation und Dokumentation von Softwarearchitekturen.
