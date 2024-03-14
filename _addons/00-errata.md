@@ -1,12 +1,12 @@
 ---
 title: Errata
-layout: single
+layout: splash
 header:
   overlay_image: /images/site-header.png
 excerpt: "Bekannte Fehler(chen)..."
 toc: true
 toc_label: "Inhalt"
-
+classes: wide
 ---
 
 
