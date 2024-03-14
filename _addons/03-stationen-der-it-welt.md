@@ -29,15 +29,15 @@ Bemerkenswert an den Requies ist auch ihre fast schon legendäre Unbeliebtheit:
 
 ## Architektonien
 
-Architektonier lieben die Dunkelheit – zumindest müssen sie dort arbeiten. Und falls es bei der Arbeit doch mal hell wird, herrscht garantiert dichter Nebel. Mit 99%iger Wahrschein- lichkeit hat ein Architektonier bei der Arbeit keine klare Sicht, weder auf die zu lösenden Aufgaben noch auf die vorhandene Technologie.
-Macht aber nichts – Architektonier haben im Lauf ihrer fast 25-jährigen Evolution großen Mut entwickelt. Und den brauchen sie auch, nämlich um ihrer wichtigsten Aufgabe nach- zukommen: Entscheidungen zu treffen. Architektonier arbeiten meist in kleinen Teams und besitzen neben fundierten technischen Skills eine gehörige Portion Sendungsbewusstsein und Kommunikationstalent. Prograland (siehe unten) ist
+Architektonier lieben die Dunkelheit – zumindest müssen sie dort arbeiten. Und falls es bei der Arbeit doch mal hell wird, herrscht garantiert dichter Nebel. Mit 99%iger Wahrscheinlichkeit hat ein Architektonier bei der Arbeit keine klare Sicht, weder auf die zu lösenden Aufgaben noch auf die vorhandene Technologie.
+Macht aber nichts – Architektonier haben im Lauf ihrer fast 25-jährigen Evolution großen Mut entwickelt. Und den brauchen sie auch, nämlich um ihrer wichtigsten Aufgabe nachzukommen: Entscheidungen zu treffen. Architektonier arbeiten meist in kleinen Teams und besitzen neben fundierten technischen Skills eine gehörige Portion Sendungsbewusstsein und Kommunikationstalent. Prograland (siehe unten) ist
 zumindest ihre zweite Heimat - oftmals sogar ihr Lieblingsplatz.
 
-Zwischen Analytistan und Architektonien verläuft eine Grenze, die der ehemaligen innerdeut- schen Grenze ähnlich ist: Architektonier können sie dank ihres legendären Mutes problemlos in beide Richtungen passieren, für Requies bleibt sie jedoch in beide Richtungen versperrt.
+Zwischen Analytistan und Architektonien verläuft eine Grenze, die der ehemaligen innerdeutschen Grenze ähnlich ist: Architektonier können sie dank ihres legendären Mutes problemlos in beide Richtungen passieren, für Requies bleibt sie jedoch in beide Richtungen versperrt.
 
 ## Prograland
 
-Die Heimat von Geeks, Nerds und weiteren technophilen Vielseitern. Alle Neugeborenen werden in Prograland traditionsgemäß in lauwarme Bytesuppe gelegt. Das prägt, gründlich und dauerhaft. Prograland straft sämtliche biologischen Thesen Lügen: Trotz 98,8 % mas- kuliner Bevölkerung nimmt die Einwohnerzahl von Prograland ständig zu. Irgendwie muss eine Art Raum-Zeit-Kanal frische Geeks in dieses vielseitige, farbenfrohe und wortkarge Land einschleusen. Aber das soll hier keine Rolle spielen.
+Die Heimat von Geeks, Nerds und weiteren technophilen Vielseitern. Alle Neugeborenen werden in Prograland traditionsgemäß in lauwarme Bytesuppe gelegt. Das prägt, gründlich und dauerhaft. Prograland straft sämtliche biologischen Thesen Lügen: Trotz 98,8 % maskuliner Bevölkerung nimmt die Einwohnerzahl von Prograland ständig zu. Irgendwie muss eine Art Raum-Zeit-Kanal frische Geeks in dieses vielseitige, farbenfrohe und wortkarge Land einschleusen. Aber das soll hier keine Rolle spielen.
 Prograland besteht aus einer Vielzahl von Provinzen, zwischen denen teilweise offene Kon- flikte herrschen. So befeinden sich seit Jahren die Hochebenen von \*ix mit den Niederungen von MS\*, oder C\* neidet J\* seine Erfolge.
 
 Insgesamt sind die Prograländer ziemlich verspielt und bleiben gerne unter sich. Requies sind nicht geduldet, Geld und Zeit spielen keine Rolle (es sei denn, es handelt sich um Millisekunden – die zählen. Personentage aber nicht).
