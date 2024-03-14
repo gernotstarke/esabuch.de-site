@@ -33,11 +33,24 @@ kaufen:
    - title: "Feedback?"
      excerpt: 'Kritik? Vorschläge? Fehler gefunden? Ich freue mich über Ihre Rückmeldung:
 
-     <form action="https://formspree.io/gs@gernotstarke.de" method="POST" >
-        <input type="email" name="email" placeholder="Ihre Email">
-        <textarea name="message" placeholder="Ihr Kommentar zum Buch..."></textarea>
-        <button type="submit" class="btn btn--primary">Absenden</button>
-     </form>'
+     <form action="https://submit-form.com/yLGolvuEO">
+    <input
+            type="hidden"
+            name="_redirect"
+            value="https://esabuch.de/feedback-thanks"
+    />
+    <input type="hidden" name="_append" value="false" />
+    <input type="text" id="name" name="name" placeholder="Ihr Name" required="" />
+    <input type="email" id="email" name="email" placeholder="Ihre Email" required="" />
+    <textarea
+    id="message"
+    name="message"
+    placeholder="Ihr Kommentar zum Buch"
+    required=""
+    ></textarea>
+    <button class="btn btn--success" type="submit">Absenden</button>
+    </form>
+'
 ---
 
 # Was Sie über Softwarearchitektur wissen sollten...
