@@ -95,3 +95,7 @@
     font-size: $type-size-7;
   }
 }
+
+.btn--primary:hover {
+    @include yiq-contrasted(mix(#000, $primary-color, 40%));
+}
