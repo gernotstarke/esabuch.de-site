@@ -1,10 +1,10 @@
 ---
 title: Technik dieser Website
-layout: single
+layout: splash
 header:
   overlay_image: /images/site-header.png
 excerpt: "Ein Blick hinter die Kulissen..."
-
+classes: wide
 ---
 
 Dies ist eine rein statische Website.

@@ -1,12 +1,12 @@
 ---
 title: Reise durch die IT-Welt
-layout: single
+layout: splash
 header:
   overlay_image: /images/site-header.png
 excerpt: "Von Analytistan über Architektonien nach Prograland..."
 toc: true
 toc_label: "Inhalt"
-
+classes: wide
 ---
 
 

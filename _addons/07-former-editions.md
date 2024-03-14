@@ -1,11 +1,12 @@
 ---
 title: Frühere Auflagen
-layout: single
+layout: splash
 header:
   overlay_image: /images/site-header.png
 excerpt: "eine Retrospektive..."
 toc: true
 toc_label: "Inhalt"
+classes: wide
 ---
 
 

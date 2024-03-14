@@ -1,10 +1,10 @@
 ---
 title: Links
-layout: single
+layout: splash
 header:
   overlay_image: /images/site-header.png
 excerpt: "Links auf weitere Quellen..."
-
+classes: wide
 ---
 
 Die Hyperlinks im Buch - hier sind sie _klickbar_:

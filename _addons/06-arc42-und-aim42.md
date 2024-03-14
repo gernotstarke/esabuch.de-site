@@ -1,11 +1,10 @@
 ---
 title: arc42 und aim42
-layout: single
+layout: splash
 header:
   overlay_image: /images/site-header.png
 excerpt: "arc42 und aim42..."
-
-
+classes: wide
 ---
 
 ## ![image-left](/images/arc42-logo-150px.jpg) **Bessere Systeme bauen**
