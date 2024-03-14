@@ -4,6 +4,9 @@ layout: splash
 permalink: /about/
 header:
   overlay_image: /images/site-header.png
+  actions:
+    - url: "https://www.gernotstarke.de/"
+      label: "gernotstarke.de"
 
 
 gernot:
