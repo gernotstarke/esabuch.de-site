@@ -9,7 +9,7 @@
     border-radius: 5px;
     padding: 30px 30px 0 30px;
     margin-bottom: 30px;
-    background: rgba(9, 60, 92, 0.1);
+    background: rgba(35, 65, 66, 0.1);
 }
 
 .center {
@@ -47,14 +47,15 @@ socials
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: #093C5C;
+  background: #296D6F;
   font-size: 24px;
   line-height: 50px;
   text-align: center;
   transition: background-color 0.3s ease;
 
   &:hover {
-    background: #5FC3C2;
+    background: #093C5C;
+
   }
 
 }
