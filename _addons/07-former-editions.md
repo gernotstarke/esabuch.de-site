@@ -23,7 +23,7 @@ den Preis für die beste Entwicklungsumgebung erhielt.
 
 ![ESA-2 Cover](/images/esa2-cover.jpg){: .align-right}
 In der zweiten Auflage kamen die Teile über MDA und UML2 neu hinzu,
-diverse Kapitel erlebten teilweise kräftige Umbauten. Jetzt
+diverse Kapitel erlebten teilweise kräftige Umbauten.
 
 <br><br>
 
