@@ -29,15 +29,29 @@ success:
     (Foto von [Pixabay](https://www.pexels.com/photo/close-up-of-human-hand-327533/))</small>'
 ---
 
-> Das Buch "Effektive Softwarearchitekturen" ist ideal geeignet zur
-Vorbereitung auf die iSAQB CPSA-Foundation Zertifizierung.
->
-> [Dr. Peter Hruschka](http://b-agile.de) (Gründungsmitglied iSAQB e.V.)
+<div class="notice--primary">
 
-**\<eigenwerbung\>**
-Natürlich würde ich mich sehr darüber freuen, Sie in einem meiner praxisorientierten
-und kurzweiligen [Trainings](http://arc42.de/termine) begrüßen zu dürfen!
-**\</eigenwerbung>\>**
+    <p><i style="font-size: 140%">"Das Buch <strong>'Effektive Softwarearchitekturen'</strong> ist ideal geeignet zur
+Vorbereitung auf die iSAQB CPSA-Foundation Zertifizierung."</i></p>
+
+    <p>~ <a target="_blank" rel="noopener noreferrer nofollow" href="https://peterhruschka.eu/">Dr. Peter Hruschka</a> (Gründungsmitglied iSAQB e.V.)</p>
+
+</div>
+
+<div class="notice--success">
+
+    <div style="font-size: 130%">
+        <strong>&lt;eigenwerbung&gt;</strong>
+        <br>
+        <div class="indented">
+            Natürlich würde ich mich sehr darüber freuen, Sie in einem meiner praxisorientierten
+            und kurzweiligen <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.arc42.de/termine">Trainings</a> begrüßen zu dürfen!
+        </div>
+        <strong></eigenwerbung></strong>
+    </div>
+
+</div>
+
 
 {% include feature_row id="certificate" type="left" %}
 {% include feature_row id="curriculum" type="right" %}
