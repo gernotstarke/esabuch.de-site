@@ -15,7 +15,7 @@ einem Ruby-basierten, quelloffenen Site-Generator.
 
 
 ### Theme: MinimalMistakes
-Als "Theme" verwende ich [MinimalMistakes](https://mmistakes.github.io/minimal-mistakes/),
+Als "Theme" verwende ich [MinimalMistakes](https://mmistakes.github.io/minimal-mistakes/)
 von Michael Rose.
 
 Das ist einerseits sehr flexibel, andererseits sehr robust.
