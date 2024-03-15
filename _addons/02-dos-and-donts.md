@@ -8,6 +8,7 @@ excerpt: "Kompakte Ratschläge, was SoftwareArchitekt:innen _tun_ (und _lassen_)
 toc: true
 toc_label: "Inhalt"
 classes: wide
+
 ---
 
 Als Quellen für diese Ratschläge dienten neben meinem Buch und meiner Erfahrung

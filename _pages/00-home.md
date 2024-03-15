@@ -5,11 +5,13 @@ permalink: /
 header:
   overlay_image: /images/site-header-long.png
   actions:
+    - label: "Trainings"
+      url: /trainings
+      class: "btn btn--info btn--hero btn--large"
     - label: "Kontakt"
       url: /contact
 
 excerpt: "**Ein praktischer Leitfaden**"
-
 
 
 kaufen:

@@ -111,3 +111,41 @@ footer
 
   }
 }
+
+
+
+
+.trainings-container {
+    display: flex;
+    align-items: center;
+}
+
+.trainings-content {
+    width: 66.67%;
+}
+
+.trainings-image {
+    width: 33.33%;
+    text-align: center;
+}
+
+.trainings-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 1000px) {
+    .trainings-container {
+        flex-direction: column;
+    }
+
+    .trainings-image, .trainings-content {
+        width: 100%;
+    }
+
+    .trainings-image img {
+        max-width: 20%;
+        display: block;
+        margin: 0 auto;
+    }
+}
