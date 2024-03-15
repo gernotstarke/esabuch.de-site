@@ -1,6 +1,6 @@
 /**
   Credits to w3schools:
-  https://www.w3schools.com/howto/howto_css_timeline.asp-
+  https://www.w3schools.com/howto/howto_css_timeline.asp
   Updated so that it's always: timeline left, container right, instead of offering both, for bigger containers.
 **/
 
@@ -15,20 +15,20 @@
   content: '';
   position: absolute;
   width: 6px;
-  background-color: #647858;
+  background-color: #CA2A1E; /* Updated to red */
   top: 0;
   bottom: 0;
-  left: 31px; /* Changed from 50% to 31px based on media query */
+  left: 31px;
   margin-left: -3px;
 }
 
 /* Container around content */
 .container {
   padding: 10px 40px;
-  padding-left: 70px; /* Adjusted based on media query */
-  padding-right: 25px; /* Adjusted based on media query */
+  padding-left: 70px;
+  padding-right: 25px;
   position: relative;
-  width: 100%; /* Adjusted based on media query */
+  width: 100%;
 }
 
 /* The circles on the timeline */
@@ -39,11 +39,11 @@
   height: 25px;
   right: -17px;
   background-color: #F6E7B6;
-  border: 4px solid #647858;
+  border: 4px solid #CA2A1E; /* Updated to red */
   top: 15px;
   border-radius: 50%;
   z-index: 1;
-  left: 15px; /* Adjusted to ensure circles are at the same spot */
+  left: 15px;
 }
 
 /* Place the container to the left and adjustments for arrows */
@@ -54,10 +54,10 @@
   top: 22px;
   width: 0;
   z-index: 1;
-  left: 60px; /* Adjusted for all arrows pointing leftwards */
-  border: medium solid #647858;
+  left: 60px;
+  border: medium solid #CA2A1E; /* Updated to red */
   border-width: 10px 10px 10px 0;
-  border-color: transparent #647858 transparent transparent;
+  border-color: transparent #CA2A1E transparent transparent;
 }
 
 /* The actual content */
@@ -67,7 +67,3 @@
   position: relative;
   border-radius: 6px;
 }
-
-/* Removed classes .left and .right specific positioning and arrow adjustments */
-
-
