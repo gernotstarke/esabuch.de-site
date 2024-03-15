@@ -1,9 +1,3 @@
-/**
-  Credits to w3schools:
-  https://www.w3schools.com/howto/howto_css_timeline.asp
-  Updated so that it's always: timeline left, container right, instead of offering both, for bigger containers.
-**/
-
 /* The actual timeline (the vertical ruler) */
 .timeline {
   position: relative;
@@ -15,7 +9,7 @@
   content: '';
   position: absolute;
   width: 6px;
-  background-color: #CA2A1E; /* Updated to red */
+  background-color: #CA2A1E;
   top: 0;
   bottom: 0;
   left: 31px;
@@ -39,7 +33,7 @@
   height: 25px;
   right: -17px;
   background-color: #F6E7B6;
-  border: 4px solid #CA2A1E; /* Updated to red */
+  border: 4px solid #CA2A1E;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -55,7 +49,7 @@
   width: 0;
   z-index: 1;
   left: 60px;
-  border: medium solid #CA2A1E; /* Updated to red */
+  border: medium solid #CA2A1E;
   border-width: 10px 10px 10px 0;
   border-color: transparent #CA2A1E transparent transparent;
 }
@@ -66,4 +60,87 @@
   background-color: #F6E7B6;
   position: relative;
   border-radius: 6px;
+}
+
+
+/* Edition 1 */
+.container-edition-one::after {
+  background-color: #fcf2ce;
+  border: 4px solid #CA2A1E;
+}
+
+.content-edition-one {
+  background-color: #fcf2ce;
+}
+
+/* Edition 2 */
+.container-edition-two::after {
+  background-color: #f4e0c7;
+  border: 4px solid #CA2A1E;
+}
+.content-edition-two {
+  background-color: #f4e0c7;
+}
+
+/* Edition 3 */
+.container-edition-three::after {
+  background-color: #fce8cd;
+  border: 4px solid #CA2A1E;
+}
+.content-edition-three {
+  background-color: #fce8cd;
+}
+
+/* Edition 4 */
+.container-edition-four::after {
+  background-color: #d1e1e9;
+  border: 4px solid #CA2A1E;
+}
+.content-edition-four {
+  background-color: #d1e1e9;
+}
+
+/* Edition 5 */
+.container-edition-five::after {
+  background-color: #e5f0fb;
+  border: 4px solid #CA2A1E;
+}
+.content-edition-five {
+  background-color: #e5f0fb;
+}
+
+/* Edition 6 */
+.container-edition-six::after {
+  background-color: #f3f6cf;
+  border: 4px solid #CA2A1E;
+}
+.content-edition-six {
+  background-color: #f3f6cf;
+}
+
+/* Edition 7 */
+.container-edition-seven::after {
+  background-color: #fef9d1;
+  border: 4px solid #CA2A1E;
+}
+.content-edition-seven {
+  background-color: #fef9d1;
+}
+
+/* Edition 8 */
+.container-edition-eight::after {
+  background-color: #cfeee3;
+  border: 4px solid #CA2A1E;
+}
+.content-edition-eight {
+  background-color: #cfeee3;
+}
+
+/* Edition 9 */
+.container-edition-nine::after {
+  background-color: #cfd9df;
+  border: 4px solid #CA2A1E;
+}
+.content-edition-nine {
+  background-color: #cfd9df;
 }
