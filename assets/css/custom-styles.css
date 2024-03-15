@@ -127,6 +127,7 @@ footer
 .trainings-image {
     width: 33.33%;
     text-align: center;
+    margin-right: 20px;
 }
 
 .trainings-image img {
@@ -134,18 +135,38 @@ footer
     height: auto;
 }
 
-@media (max-width: 1000px) {
-    .trainings-container {
-        flex-direction: column;
+.text-large-display, .text-super-small-display-gone {
+    display: block;
+}
+
+.text-small-display {
+    display: none;
+}
+
+.text-super-small-display {
+    display: none;
+}
+
+@media (max-width: 700px) {
+    .text-large-display {
+        display: none;
     }
 
-    .trainings-image, .trainings-content {
-        width: 100%;
-    }
-
-    .trainings-image img {
-        max-width: 20%;
+    .text-small-display {
         display: block;
-        margin: 0 auto;
+    }
+
+    .trainings-image {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 500px) {
+    .text-super-small-display {
+        display: block;
+    }
+
+    .text-super-small-display-gone {
+        display: none;
     }
 }
