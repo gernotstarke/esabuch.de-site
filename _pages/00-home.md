@@ -117,18 +117,18 @@ kaufen:
 
         <div class="archive__item-body">
           
-            <h2 class="archive__item-title">Nutzen</h2>
+            <h2 class="archive__item-title">Links</h2>
           
 
           
             <div class="archive__item-excerpt">
-              <p>Praxisrelevante Inhalte, zahlreiche Tipps. <br /><br />Basiert auf Erfahrung aus zahlreichen Entwicklungsprojekten.</p>
+              <p>Die Hyperlinks im Buch - hier sind sie <i>klickbar</i></p>
 
             </div>
           
 
           
-            <p><a href="/meinungen" class="btn btn--primary">Leserstimmen</a></p>
+            <p><a href="/links" class="btn btn--primary">Links</a></p>
           
         </div>
       </div>
