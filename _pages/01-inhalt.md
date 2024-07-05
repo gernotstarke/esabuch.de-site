@@ -9,7 +9,7 @@ excerpt: "Praktisch relevante Themenauswahl"
 ---
 
 
-![](/images/wegweiser-ESA-9.png)
+![](/images/wegweiser-ESA-10.png)
 
 
 
