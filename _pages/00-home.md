@@ -12,7 +12,7 @@ header:
       url: /contact
 
 excerpt: "**Ein praktischer Leitfaden**"
-
+ 
 
 kaufen:
    - image_path: /images/esa-cover.png
