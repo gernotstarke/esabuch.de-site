@@ -12,9 +12,7 @@ einer Custom-Domain.
 
 ## Lokale Entwicklung mit Jekyll und Docker
 
-* Start mit `_manage-site.sh`...
-
-* Dieses Skript wiederum verwendet verschiedene `docker-compose`. Kommandos. Es kann das Docker-Image bauen und mit den benötigten ruby-gems für das verwendete Jekyll-Template versorgen. Kann also etwas dauern...
+* Start mit `docker compose up`
 
 
 ## Copyright
