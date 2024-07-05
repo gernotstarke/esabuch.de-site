@@ -170,3 +170,9 @@ footer
         display: none;
     }
 }
+
+.hidden {
+    display: none;
+}
+
+

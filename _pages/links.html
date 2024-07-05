@@ -1,0 +1,603 @@
+---
+title: Links
+permalink: /links
+layout: splash
+header:
+  overlay_image: /images/site-header.png
+excerpt: "Die Hyperlinks im Buch - hier sind sie _klickbar_"
+classes: wide
+---
+
+<!-- Navigation Buttons (without : for non-JS) -->
+<div class="nav-buttons">
+    <a href="#section-1-50" class="btn btn--primary">Seiten 1-50</a
+    <a href="#section-51-100" class="btn btn--primary">Seiten 51-100</a>
+    <a href="#section-101-150" class="btn btn--primary">Seiten 101-150</a>
+    <a href="#section-151-200" class="btn btn--primary">Seiten 151-200</a>
+    <a href="#section-201-250" class="btn btn--primary">Seiten 201-250</a>
+    <a href="#section-251-300" class="btn btn--primary">Seiten 251-300</a>
+    <a href="#section-301-348" class="btn btn--primary">Seiten 301-348</a>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Check if JavaScript is enabled by adding a class to body
+        document.body.classList.add('js-enabled');
+
+        // Select the navigation buttons container
+        const navButtons = document.querySelector('.nav-buttons');
+
+        // Define the content for JavaScript enabled state
+        const jsEnabledContent = `
+            <a href="#section-1-50" class="btn btn--primary">:Seiten 1-50</a>
+            <a href="#section-51-100" class="btn btn--primary">:Seiten 51-100</a>
+            <a href="#section-101-150" class="btn btn--primary">:Seiten 101-150</a>
+            <a href="#section-151-200" class="btn btn--primary">:Seiten 151-200</a>
+            <a href="#section-201-250" class="btn btn--primary">:Seiten 201-250</a>
+            <a href="#section-251-300" class="btn btn--primary">:Seiten 251-300</a>
+            <a href="#section-301-348" class="btn btn--primary">:Seiten 301-348</a>
+        `;
+
+        // Replace content inside .nav-buttons if JS is enabled
+        if (document.body.classList.contains('js-enabled')) {
+            navButtons.innerHTML = jsEnabledContent;
+        }
+    });
+</script>
+
+
+
+<!-- Sections -->
+<div id="section-1-50" class="section">
+    <h2>Seiten 1-50</h2>
+    <h2 class="hidden">section-1-50</h2>
+
+    <ul>
+        <li><strong>Seite 5:</strong>
+            <ul>
+                <li><a href="https://standishgroup.com" target="_blank" rel="noopener noreferrer nofollow">https://standishgroup.com</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 7:</strong>
+            <ul>
+                <li><a href="https://peterhruschka.eu/" target="_blank" rel="noopener noreferrer nofollow">https://peterhruschka.eu/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 11:</strong>
+            <ul>
+                <li><a href="https://www.arc42.de" target="_blank" rel="noopener noreferrer nofollow">https://www.arc42.de</a></li>
+                <li><a href="https://leanpub.com/arc42byexample" target="_blank" rel="noopener noreferrer nofollow">https://leanpub.com/arc42byexample</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 14:</strong>
+            <ul>
+                <li><a href="https://www.merriam-webster.com/dictionary/system" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/system</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 15:</strong>
+            <ul>
+                <li><a href="https://de.wikipedia.org/wiki/Komponente" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Komponente</a></li>
+                <li><a href="https://www.arc42.de/method#strukturen-entwerfen" target="_blank" rel="noopener noreferrer nofollow">https://www.arc42.de/method#strukturen-entwerfen</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 17:</strong>
+            <ul>
+                <li><a href="https://www.innoq.com/de/blog/whats-in-a-name-consistency/" target="_blank" rel="noopener noreferrer nofollow">https://www.innoq.com/de/blog/whats-in-a-name-consistency/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 18:</strong>
+            <ul>
+                <li><a href="https://spring.io/projects/spring-data/" target="_blank" rel="noopener noreferrer nofollow">https://spring.io/projects/spring-data/</a></li>
+                <li><a href="https://quasar.dev" target="_blank" rel="noopener noreferrer nofollow">https://quasar.dev</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 21:</strong>
+            <ul>
+                <li><a href="https://medium.com/olzzio/architectural-significance-test-9ff17a9b4490" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/olzzio/architectural-significance-test-9ff17a9b4490</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 25:</strong>
+            <ul>
+                <li><a href="https://www.remotemobprogramming.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.remotemobprogramming.org/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 26:</strong>
+            <ul>
+                <li><a href="https://architectelevator.com/architecture/organizing-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://architectelevator.com/architecture/organizing-architecture/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 27:</strong>
+            <ul>
+                <li><a href="https://en.wikipedia.org/wiki/Benevolent_dictator_for_life" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Benevolent_dictator_for_life</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 28:</strong>
+            <ul>
+                <li><a href="https://architectelevator.com/architecture/organizing-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://architectelevator.com/architecture/organizing-architecture/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 32:</strong>
+            <ul>
+                <li><a href="https://www.melconway.com/Home/" target="_blank" rel="noopener noreferrer nofollow">https://www.melconway.com/Home/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 33:</strong>
+            <ul>
+                <li><a href="https://www.iteratec.de" target="_blank" rel="noopener noreferrer nofollow">https://www.iteratec.de</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 38:</strong>
+            <ul>
+                <li><a href="https://www.slideshare.net/ziobrando/50000-orange-stickies-later" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/ziobrando/50000-orange-stickies-later</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 40:</strong>
+            <ul>
+                <li><a href="https://en.wikipedia.org/wiki/Dave_Asprey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dave_Asprey</a></li>
+            </ul>
+        </li>
+    </ul>
+
+
+</div>
+
+<div id="section-51-100" class="section">
+    <h2>Seiten 51-100</h2>
+    <h2 class="hidden">section-51-100</h2>
+
+    <ul>
+        <li><strong>Seite 53:</strong>
+            <ul>
+                <li><a href="https://springframework.org/" target="_blank" rel="noopener noreferrer nofollow">https://springframework.org/</a></li>
+                <li><a href="https://martinfowler.com/articles/injection.html" target="_blank" rel="noopener noreferrer nofollow">https://martinfowler.com/articles/injection.html</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 57:</strong>
+            <ul>
+                <li><a href="https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html" target="_blank" rel="noopener noreferrer nofollow">https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 62:</strong>
+            <ul>
+                <li><a href="https://martinfowler.com/articles/injection.html" target="_blank" rel="noopener noreferrer nofollow">https://martinfowler.com/articles/injection.html</a></li>
+                <li><a href="https://spring.io" target="_blank" rel="noopener noreferrer nofollow">https://spring.io</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 71:</strong>
+            <ul>
+                <li><a href="https://scs-architecture.org" target="_blank" rel="noopener noreferrer nofollow">https://scs-architecture.org</a></li>
+                <li><a href="https://leanpub.com/ddd-by-example" target="_blank" rel="noopener noreferrer nofollow">https://leanpub.com/ddd-by-example</a></li>
+                <li><a href="https://ziobrando.blogspot.de/2013/11/introducing-event-storming.html" target="_blank" rel="noopener noreferrer nofollow">https://ziobrando.blogspot.de/2013/11/introducing-event-storming.html</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 77:</strong>
+            <ul>
+                <li><a href="https://foldingathome.org/covid19/" target="_blank" rel="noopener noreferrer nofollow">https://foldingathome.org/covid19/</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Folding@home" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Folding@home</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 91:</strong>
+            <ul>
+                <li><a href="https://leanpub.com/get-your-hands-dirty-on-clean-architecture" target="_blank" rel="noopener noreferrer nofollow">https://leanpub.com/get-your-hands-dirty-on-clean-architecture</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 95:</strong>
+            <ul>
+                <li><a href="https://martinfowler.com/articles/microservices.html" target="_blank" rel="noopener noreferrer nofollow">https://martinfowler.com/articles/microservices.html</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 96:</strong>
+            <ul>
+                <li><a href="https://scs-architecture.org/" target="_blank" rel="noopener noreferrer nofollow">https://scs-architecture.org/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 98:</strong>
+            <ul>
+                <li><a href="https://apistylebook.com/design/guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://apistylebook.com/design/guidelines/</a></li>
+                <li><a href="https://github.com/lord/slate" target="_blank" rel="noopener noreferrer nofollow">https://github.com/lord/slate</a></li>
+                <li><a href="https://swagger.io/" target="_blank" rel="noopener noreferrer nofollow">https://swagger.io/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 99:</strong>
+            <ul>
+                <li><a href="https://microservices.io" target="_blank" rel="noopener noreferrer nofollow">https://microservices.io</a></li>
+                <li><a href="https://dzone.com/articles/service-discovery-in-a-microservices-architecture" target="_blank" rel="noopener noreferrer nofollow">https://dzone.com/articles/service-discovery-in-a-microservices-architecture</a></li>
+            </ul>
+        </li>
+    </ul>
+
+</div>
+
+<div id="section-101-150" class="section">
+    <h2>Seiten 101-150</h2>
+    <h2 class="hidden">section-101-150</h2>
+
+    <ul>
+        <li><strong>Seite 101:</strong>
+            <ul>
+                <li><a href="https://www.infoq.com/presentations/microservices-docker-cqrs" target="_blank" rel="noopener noreferrer nofollow">https://www.infoq.com/presentations/microservices-docker-cqrs</a></li>
+                <li><a href="https://de.wikipedia.org/wiki/Kontinuierliche_Integration" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Kontinuierliche_Integration</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 105:</strong>
+            <ul>
+                <li><a href="https://projects.spring.io/spring-batch/" target="_blank" rel="noopener noreferrer nofollow">https://projects.spring.io/spring-batch/</a></li>
+                <li><a href="https://spring.io/" target="_blank" rel="noopener noreferrer nofollow">https://spring.io/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 109:</strong>
+            <ul>
+                <li><a href="https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 117:</strong>
+            <ul>
+                <li><a href="https://martinfowler.com/eaaDev/PresentationModel.html" target="_blank" rel="noopener noreferrer nofollow">https://martinfowler.com/eaaDev/PresentationModel.html</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 119:</strong>
+            <ul>
+                <li><a href="https://www.ietf.org/rfc/rfc2616.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.ietf.org/rfc/rfc2616.txt</a></li>
+                <li><a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 124:</strong>
+            <ul>
+                <li><a href="https://microservices-book.com/primer.html" target="_blank" rel="noopener noreferrer nofollow">https://microservices-book.com/primer.html</a></li>
+                <li><a href="https://microservices.io" target="_blank" rel="noopener noreferrer nofollow">https://microservices.io</a></li>
+                <li><a href="https://teamtopologies.com/" target="_blank" rel="noopener noreferrer nofollow">https://teamtopologies.com/</a></li>
+                <li><a href="https://unfix.com/" target="_blank" rel="noopener noreferrer nofollow">https://unfix.com/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 129:</strong>
+            <ul>
+                <li><a href="https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good</a></li>
+                <li><a href="https://mattk.com/perfect-is-the-enemy-of-done/" target="_blank" rel="noopener noreferrer nofollow">https://mattk.com/perfect-is-the-enemy-of-done/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 132:</strong>
+            <ul>
+                <li><a href="https://jsoup.org" target="_blank" rel="noopener noreferrer nofollow">https://jsoup.org</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 133:</strong>
+            <ul>
+                <li><a href="https://de.wikipedia.org/wiki/Millersche_Zahl" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Millersche_Zahl</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 137:</strong>
+            <ul>
+                <li><a href="https://www.remotemobprogramming.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.remotemobprogramming.org/</a></li>
+                <li><a href="https://blog.adplist.org/post/10-principles-of-visual-designs" target="_blank" rel="noopener noreferrer nofollow">https://blog.adplist.org/post/10-principles-of-visual-designs</a></li>
+                <li><a href="https://www.nngroup.com/articles/principles-visual-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/principles-visual-design/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 143:</strong>
+            <ul>
+                <li><a href="https://graphql.org/" target="_blank" rel="noopener noreferrer nofollow">https://graphql.org/</a></li>
+                <li><a href="https://docs.github.com/en/graphql" target="_blank" rel="noopener noreferrer nofollow">https://docs.github.com/en/graphql</a></li>
+                <li><a href="https://www.openapis.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.openapis.org/</a></li>
+                <li><a href="https://grpc.io/" target="_blank" rel="noopener noreferrer nofollow">https://grpc.io/</a></li>
+                <li><a href="https://protobuf.dev/" target="_blank" rel="noopener noreferrer nofollow">https://protobuf.dev/</a></li>
+                <li><a href="https://avro.apache.org/" target="_blank" rel="noopener noreferrer nofollow">https://avro.apache.org/</a></li>
+                <li><a href="https://raml.org/" target="_blank" rel="noopener noreferrer nofollow">https://raml.org/</a></li>
+                <li><a href="https://www.asyncapi.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.asyncapi.com/en</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 149:</strong>
+            <ul>
+                <li><a href="https://ieeexplore.ieee.org/document/9801811" target="_blank" rel="noopener noreferrer nofollow">https://ieeexplore.ieee.org/document/9801811</a></li>
+                <li><a href="https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions" target="_blank" rel="noopener noreferrer nofollow">https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions</a></li>
+            </ul>
+        </li>
+    </ul>
+
+
+</div>
+
+<div id="section-151-200" class="section">
+    <h2>Seiten 151-200</h2>
+    <h2 class="hidden">section-151-200</h2>
+
+    <ul>
+        <li><strong>Seite 152:</strong>
+            <ul>
+                <li><a href="https://www.strategyzer.com/canvas/business-model-canvas" target="_blank" rel="noopener noreferrer nofollow">https://www.strategyzer.com/canvas/business-model-canvas</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 154:</strong>
+            <ul>
+                <li><a href="https://canvas.arc42.org" target="_blank" rel="noopener noreferrer nofollow">https://canvas.arc42.org</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 155:</strong>
+            <ul>
+                <li><a href="https://www.omg.org" target="_blank" rel="noopener noreferrer nofollow">https://www.omg.org</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 159:</strong>
+            <ul>
+                <li><a href="https://structurizr.com" target="_blank" rel="noopener noreferrer nofollow">https://structurizr.com</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 160:</strong>
+            <ul>
+                <li><a href="https://structurizr.com" target="_blank" rel="noopener noreferrer nofollow">https://structurizr.com</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 163:</strong>
+            <ul>
+                <li><a href="https://c4model.com/#CodeDiagram" target="_blank" rel="noopener noreferrer nofollow">https://c4model.com/#CodeDiagram</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 164:</strong>
+            <ul>
+                <li><a href="https://www.opengroup.org/archimate-forum/archimate-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.opengroup.org/archimate-forum/archimate-overview</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 165:</strong>
+            <ul>
+                <li><a href="https://www.omgsysml.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.omgsysml.org/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 166:</strong>
+            <ul>
+                <li><a href="https://plantuml.com" target="_blank" rel="noopener noreferrer nofollow">https://plantuml.com</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 168:</strong>
+            <ul>
+                <li><a href="https://www.innoq.com/en/articles/2022/01/principles-of-technical-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.innoq.com/en/articles/2022/01/principles-of-technical-documentation/</a></li>
+                <li><a href="https://www.agilemodeling.com/style/" target="_blank" rel="noopener noreferrer nofollow">https://www.agilemodeling.com/style/</a></li>
+                <li><a href="https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/" target="_blank" rel="noopener noreferrer nofollow">https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 169:</strong>
+            <ul>
+                <li><a href="https://de.wikipedia.org/wiki/James_Clerk_Maxwell" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/James_Clerk_Maxwell</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 177:</strong>
+            <ul>
+                <li><a href="https://quality.arc42.org" target="_blank" rel="noopener noreferrer nofollow">https://quality.arc42.org</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 181:</strong>
+            <ul>
+                <li><a href="https://www.adamtornhill.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamtornhill.com/</a></li>
+                <li><a href="https://sonarqube.org/" target="_blank" rel="noopener noreferrer nofollow">https://sonarqube.org/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 186:</strong>
+            <ul>
+                <li><a href="https://code.google.com/p/protobuf/" target="_blank" rel="noopener noreferrer nofollow">https://code.google.com/p/protobuf/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 192:</strong>
+            <ul>
+                <li><a href="https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed" target="_blank" rel="noopener noreferrer nofollow">https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed</a></li>
+                <li><a href="https://blog.nahurst.com/visual-guide-to-nosql-systems" target="_blank" rel="noopener noreferrer nofollow">https://blog.nahurst.com/visual-guide-to-nosql-systems</a></li>
+            </ul>
+        </li>
+    </ul>
+
+
+</div>
+
+<div id="section-201-250" class="section">
+    <h2>Seiten 201-250</h2>
+    <h2 class="hidden">section-201-250</h2>
+
+    <ul>
+        <li><strong>Seite 201:</strong>
+            <ul>
+                <li><a href="https://martinfowler.com/eaaCatalog/" target="_blank" rel="noopener noreferrer nofollow">https://martinfowler.com/eaaCatalog/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 202:</strong>
+            <ul>
+                <li><a href="https://www.amazon.de/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 204:</strong>
+            <ul>
+                <li><a href="https://www.amazon.de/Data-dezentrale-Datenarchitektur-entwerfen-Animals/dp/3960092075" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/Data-dezentrale-Datenarchitektur-entwerfen-Animals/dp/3960092075</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 206:</strong>
+            <ul>
+                <li><a href="https://www.h2database.com" target="_blank" rel="noopener noreferrer nofollow">https://www.h2database.com</a></li>
+                <li><a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sqlite.org/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 207:</strong>
+            <ul>
+                <li><a href="https://www.hongkiat.com/blog/amazon-s3-the-beginners-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.hongkiat.com/blog/amazon-s3-the-beginners-guide/</a></li>
+                <li><a href="https://github.com/edlich/nosql-database.org" target="_blank" rel="noopener noreferrer nofollow">https://nosql-database.org/</a></li>
+                <ul>
+                    <li><i>Diese Website ist nicht mehr verfügbar. Der Snapshot bis 2019 ist im GitHub-Repository enthalten, das Sie über den obigen Link erreichen können.</i></li>
+                </ul>
+            </ul>
+        </li>
+        <li><strong>Seite 211:</strong>
+            <ul>
+                <li><a href="https://en.wikipedia.org/wiki/Rete_algorithm" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rete_algorithm</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 214:</strong>
+            <ul>
+                <li><a href="https://jboss.org/drools" target="_blank" rel="noopener noreferrer nofollow">https://jboss.org/drools</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 216:</strong>
+            <ul>
+                <li><a href="https://martinfowler.com/articles/micro-frontends.html" target="_blank" rel="noopener noreferrer nofollow">https://martinfowler.com/articles/micro-frontends.html</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 225:</strong>
+            <ul>
+                <li><a href="https://medium.com/@dasun.15/distributed-systems-messaging-eee8e70c4a77" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/@dasun.15/distributed-systems-messaging-eee8e70c4a77</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 233:</strong>
+            <ul>
+                <li><a href="https://x-plane.com" target="_blank" rel="noopener noreferrer nofollow">https://x-plane.com</a></li>
+                <li><a href="https://qt-project.org/" target="_blank" rel="noopener noreferrer nofollow">https://qt-project.org/</a></li>
+                <li><a href="https://www.gtk.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.gtk.org/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 249:</strong>
+            <ul>
+                <li><a href="https://www.microsoft.com/en-us/securityengineering/sdl" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/security/sdl/resources/publications.aspx</a></li>
+                <li><a href="https://www.owasp.org" target="_blank" rel="noopener noreferrer nofollow">https://www.owasp.org</a></li>
+            </ul>
+        </li>
+    </ul>
+
+
+</div>
+
+<div id="section-251-300" class="section">
+    <h2>Seiten 251-300</h2>
+    <h2 class="hidden">section-251-300</h2>
+
+    <ul>
+        <li><strong>Seite 258:</strong>
+            <ul>
+                <li><a href="https://www.sonarqube.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sonarqube.org/</a></li>
+                <li><a href="https://pmd.sourceforge.net/" target="_blank" rel="noopener noreferrer nofollow">https://pmd.sourceforge.net/</a></li>
+                <li><a href="https://checkstyle.sourceforge.net" target="_blank" rel="noopener noreferrer nofollow">https://checkstyle.sourceforge.net</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 259:</strong>
+            <ul>
+                <li><a href="https://www5.in.tum.de/~huckle/bugse.html" target="_blank" rel="noopener noreferrer nofollow">https://www5.in.tum.de/~huckle/bugse.html</a></li>
+                <li><a href="https://www.researchgate.net/publication/221034486_Patterns_for_Generation_Handling_and_Management_of_Errors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221034486_Patterns_for_Generation_Handling_and_Management_of_Errors</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 264:</strong>
+            <ul>
+                <li><a href="https://innoq.com" target="_blank" rel="noopener noreferrer nofollow">https://innoq.com</a></li>
+                <li><a href="https://status.arc42.org" target="_blank" rel="noopener noreferrer nofollow">https://status.arc42.org</a></li>
+                <li><a href="https://github.com/arc42/status.arc42.org-site" target="_blank" rel="noopener noreferrer nofollow">https://github.com/arc42/status.arc42.org-site</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 265:</strong>
+            <ul>
+                <li><a href="https://news.microsoft.com/de-de/das-virtuelle-rechenzentrum-von-microsoft/" target="_blank" rel="noopener noreferrer nofollow">https://news.microsoft.com/de-de/das-virtuelle-rechenzentrum-von-microsoft/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 266:</strong>
+            <ul>
+                <li><a href="https://www.q-perior.com/fokusthema/cloud-migration/" target="_blank" rel="noopener noreferrer nofollow">https://www.q-perior.com/fokusthema/cloud-migration/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 268:</strong>
+            <ul>
+                <li><a href="https://docker.com" target="_blank" rel="noopener noreferrer nofollow">https://docker.com</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 269:</strong>
+            <ul>
+                <li><a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer nofollow">https://kubernetes.io</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 270:</strong>
+            <ul>
+                <li><a href="https://www.martinfowler.com/bliki/BlueGreenDeployment.html" target="_blank" rel="noopener noreferrer nofollow">https://www.martinfowler.com/bliki/BlueGreenDeployment.html</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 272:</strong>
+            <ul>
+                <li><a href="https://ansible.com" target="_blank" rel="noopener noreferrer nofollow">https://ansible.com</a></li>
+                <li><a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer nofollow">https://www.terraform.io/</a></li>
+                <li><a href="https://www.pulumi.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.pulumi.com/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 273:</strong>
+            <ul>
+                <li><a href="https://aws.amazon.com/de/compliance/shared-responsibility-model/" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/de/compliance/shared-responsibility-model/</a></li>
+                <li><a href="https://www.honeycomb.io/blog/what-is-observability-key-components-best-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.honeycomb.io/blog/what-is-observability-key-components-best-practices</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 274:</strong>
+            <ul>
+                <li><a href="https://www.cncf.io/" target="_blank" rel="noopener noreferrer nofollow">https://www.cncf.io/</a></li>
+                <li><a href="https://12factor.net/" target="_blank" rel="noopener noreferrer nofollow">https://12factor.net/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 280:</strong>
+            <ul>
+                <li><a href="https://aim42.org" target="_blank" rel="noopener noreferrer nofollow">https://aim42.org</a></li>
+                <li><a href="https://aim42.github.io" target="_blank" rel="noopener noreferrer nofollow">https://aim42.github.io</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 282:</strong>
+            <ul>
+                <li><a href="https://de.wikipedia.org/wiki/Demingkreis" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Demingkreis</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 293:</strong>
+            <ul>
+                <li><a href="https://aim42.github.io" target="_blank" rel="noopener noreferrer nofollow">https://aim42.github.io</a></li>
+                <li><a href="https://github.com/aim42" target="_blank" rel="noopener noreferrer nofollow">https://github.com/aim42</a></li>
+                <li><a href="https://asciidoctor.org" target="_blank" rel="noopener noreferrer nofollow">https://asciidoctor.org</a></li>
+                <li><a href="https://gradle.org" target="_blank" rel="noopener noreferrer nofollow">https://gradle.org</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 297:</strong>
+            <ul>
+                <li><a href="https://www.informatik.uni-leipzig.de/cs/esvorles/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-leipzig.de/cs/esvorles/index.html</a></li>
+            </ul>
+        </li>
+    </ul>
+
+
+</div>
+
+<div id="section-301-348" class="section">
+    <h2>Seiten 301-348</h2>
+    <h2 class="hidden">section-301-348</h2>
+
+    <ul>
+        <li><strong>Seite 306:</strong>
+            <ul>
+                <li><a href="https://en.wikipedia.org/wiki/EBCDIC" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/EBCDIC</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 312:</strong>
+            <ul>
+                <li><a href="https://www.redbooks.ibm.com/abstracts/sg246105.html" target="_blank" rel="noopener noreferrer nofollow">https://www.redbooks.ibm.com/abstracts/sg246105.html</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 336:</strong>
+            <ul>
+                <li><a href="https://de.wikipedia.org/wiki/Customer_Relationship_Management" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Customer_Relationship_Management</a></li>
+                <li><a href="https://de.wikipedia.org/wiki/ETL-Prozess" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/ETL-Prozess</a></li>
+                <li><a href="https://www.jboss.org/drools/" target="_blank" rel="noopener noreferrer nofollow">https://www.jboss.org/drools/</a></li>
+                <li><a href="https://docs.oracle.com/cd/E19851-01/820-4119-10/prod_overview.html#50618373_pgfId-1002617" target="_blank" rel="noopener noreferrer nofollow">https://docs.oracle.com/cd/E19851-01/820-4119-10/prod_overview.html#50618373_pgfId-1002617</a></li>
+                <li><a href="https://www.ibm.com/developerworks/java/library/j-drools/" target="_blank" rel="noopener noreferrer nofollow">https://www.ibm.com/developerworks/java/library/j-drools/</a></li>
+                <li><a href="https://pentaho.com/" target="_blank" rel="noopener noreferrer nofollow">https://pentaho.com/</a></li>
+                <li><a href="https://commons.apache.org/validator/" target="_blank" rel="noopener noreferrer nofollow">https://commons.apache.org/validator/</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 339:</strong>
+            <ul>
+                <li><a href="https://www.istqb.org" target="_blank" rel="noopener noreferrer nofollow">https://www.istqb.org</a></li>
+                <li><a href="https://www.ireb.org/de" target="_blank" rel="noopener noreferrer nofollow">https://www.ireb.org/de</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 341:</strong>
+            <ul>
+                <li><a href="https://public.isaqb.org" target="_blank" rel="noopener noreferrer nofollow">https://public.isaqb.org</a></li>
+            </ul>
+        </li>
+        <li><strong>Seite 343:</strong>
+            <ul>
+                <li><a href="https://public.isaqb.org" target="_blank" rel="noopener noreferrer nofollow">https://public.isaqb.org</a></li>
+            </ul>
+        </li>
+    </ul>
+
+
+</div>
