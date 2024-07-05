@@ -1,10 +1,10 @@
 ---
 title: Technik dieser Website
-layout: single
+layout: splash
 header:
   overlay_image: /images/site-header.png
 excerpt: "Ein Blick hinter die Kulissen..."
-
+classes: wide
 ---
 
 Dies ist eine rein statische Website.
@@ -15,7 +15,7 @@ einem Ruby-basierten, quelloffenen Site-Generator.
 
 
 ### Theme: MinimalMistakes
-Als "Theme" verwende ich [MinimalMistakes](https://mmistakes.github.io/minimal-mistakes/),
+Als "Theme" verwende ich [MinimalMistakes](https://mmistakes.github.io/minimal-mistakes/)
 von Michael Rose.
 
 Das ist einerseits sehr flexibel, andererseits sehr robust.
@@ -25,6 +25,9 @@ und footer der Site marginal an meine Bedürfnisse angepasst.
 Vor der esabuch.de Site habe ich mit diesem Theme bereits
 [arc42.org](http://arc42.org) und [aim42.org](http://aim42.org)
 gebaut - hatte also geringe Einarbeitungszeiten.
+
+Mittlerweile "outsource" ich  Management, Design, Entwicklung und Instandhaltung meiner Sites weitestgehend an 
+meinen Sohn [Per, der als Web Entwickler arbeitet](https://perstarke-webdev.de/) und mich hierbei prima unterstützen kann.
 
 
 ## Inhalt: Markdown
@@ -46,20 +49,13 @@ Daher habe ich für meine Websites Docker-Container konfiguriert,
 die die jeweils benötigte Version von Ruby, Jekyll, den benötigten Plugins
 und weitere Abhängigkeiten enthalten.
 
-Die jeweiligen Kommandos oder Aktionen starte ich via docker-compose
-(mit jeweils unterschiedlichen Konfigurationsdateien).
+Die jeweiligen Kommandos oder Aktionen starte ich via docker-compose.
 
-Und weil ich mir die Kommandozeilen-Aufrufe niemals werde merken können,
-koordiniert ein kleines Shell-Skript, was gerade zu tun ist:
+Mittlerweile nutze ich dafür ["Jekyll in a Docker Container" von Bret Fisher](https://github.com/BretFisher/jekyll-serve).
 
-* Das Docker-Kommando zum Erstellen des notwendigen Images
-* Start von Jekyll im Server-Modus, bei dem er auf Änderungen im Dateisystem
-lauscht und bei Bedarf inkrementell die Site neu aufbaut. Hierbei werden
-alle Referenzen innerhalb der Site auf Links zu localhost (0.0.0.0:4000)
-gesetzt.
-* Die _production site_ wird aktuell von Netlify  (https://netlify.com) gebaut und gehostet. 
+Die _production site_ wird aktuell von Netlify ([https://netlify.com](https://netlify.com)) gebaut und gehostet. 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d0f6be4f-6dca-4fc3-868c-b59d07e857b8/deploy-status)](https://app.netlify.com/sites/esabuch-site/deploys)
 
 
 ### Letzte Änderung
-This site was last built on {{ site.time | date: '%d-%M-%Y' }}
+Der letzte Site-Build: {{ site.time | date: '%d.%m.%Y' }}

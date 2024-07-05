@@ -6,7 +6,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 github: metadata
 
 ##
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "de"

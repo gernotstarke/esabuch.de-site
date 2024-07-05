@@ -4,10 +4,13 @@ layout: splash
 permalink: /about/
 header:
   overlay_image: /images/site-header.png
+  actions:
+    - url: "https://www.gernotstarke.de/"
+      label: "gernotstarke.de"
 
 
 gernot:
-  - image_path: /images/about/gernot-portrait.jpg
+  - image_path: /images/about/gernot-portrait.webp
     alt: Gernot Starke
     title: Softwarearchitekt.
     excerpt: '[INNOQ-Fellow](https://www.innoq.com/de/staff/gernot-starke/).
@@ -19,7 +22,7 @@ gernot:
 
 
 erfahrung:
-   - image_path: /images/about/landkarte.png
+   - image_path: /images/about/landkarte.webp
      alt: IT-Welt
      title: Vielseitige Erfahrung.
      excerpt: '... in (fast) allen Bereichen der Softwareentwicklung,
@@ -27,7 +30,7 @@ erfahrung:
      betriebswirtschaftlichem Verständnis. Dolmetscher zwischen Fachbereich und IT.'
 
 arc42:
-    - image_path: /images/about/arc42-logo.jpg
+    - image_path: /images/about/arc42-logo.png
       alt: arc42
       title: (Mit-)Gründer von arc42.
       excerpt: '**[arc42](https://arc42.org), das** Template zur Kommunikation und Dokumentation von Softwarearchitekturen.
@@ -63,14 +66,14 @@ isaqb:
 
 
 buecher:
-   - image_path: /images/about/buch-cover-grid.png
+   - image_path: /images/about/buch-cover-grid.webp
      alt: Buecher
      title: Schreibt Bücher...
      excerpt: '..zu Themen rund um Softwarearchitektur, arc42, Software-Reviews, Patterns. Eine [Übersicht dazu](https://gernotstarke.de/buecher)'
 
 
 training:
-  - image_path: /images/about/training.jpg
+  - image_path: /images/about/training.webp
     alt: Training
     title: Trainer ...
     excerpt: 'Mehr als 15 Jahre Erfahrung mit

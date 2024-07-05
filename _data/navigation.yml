@@ -4,6 +4,8 @@ main:
     url: /inhalt
   - title: Zertifizierung
     url: /zertifizierung
+  - title: Links
+    url: /links
   - title: Add-Ons
     url: /addons/
   - title: "Über mich"
