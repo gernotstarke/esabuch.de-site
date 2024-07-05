@@ -19,13 +19,13 @@ kaufen:
      image_class: "bookcover-max"
    - title: "Kaufen"
      excerpt: '
-     <a href="https://www.hanser-fachbuch.de/fachbuch/artikel/9783446463769"
+     <a href="https://www.hanser-fachbuch.de/fachbuch/artikel/9783446476721"
         class="btn btn--success btn--large"
         target="_blank"
         rel="noopener noreferrer nofollow">
      Hanser Verlag
      </a>
-     <a href="https://www.amazon.de/Effektive-Softwarearchitekturen-Ein-praktischer-Leitfaden/dp/3446463763"
+     <a href="https://www.amazon.de/Effektive-Softwarearchitekturen-Ein-praktischer-Leitfaden-dp-3446476725/dp/3446476725"
      class="btn btn--primary btn--large"
      target="_blank"
      rel="noopener noreferrer nofollow">
@@ -35,7 +35,7 @@ kaufen:
    - title: "Feedback?"
      excerpt: 'Kritik? Vorschläge? Fehler gefunden? Ich freue mich über Ihre Rückmeldung:
 
-     <form action="https://submit-form.com/yLGolvuEO">
+    <form action="https://submit-form.com/yLGolvuEO">
     <input
             type="hidden"
             name="_redirect"
