@@ -35,8 +35,8 @@ kaufen:
    - title: "Feedback?"
      excerpt: 'Kritik? Vorschläge? Fehler gefunden? Ich freue mich über Ihre Rückmeldung:
 
-    <form action="https://submit-form.com/yLGolvuEO">
-    data-botpoison-public-key="pk_8c4691ff-fe9c-4765-aaaa-13337d52b9e2"
+    <form action="https://submit-form.com/yLGolvuEO"
+    data-botpoison-public-key="pk_8c4691ff-fe9c-4765-aaaa-13337d52b9e2">
     <input
             type="hidden"
             name="_redirect"
