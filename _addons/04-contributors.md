@@ -7,9 +7,17 @@ excerpt: "Liste aller Contributor zu diesem Buch - danke euch!"
 classes: wide
 ---
 
+
+>Danke an meine Traumfrau _Cheffe_ Uli ❤️, [Lynn](https://starkelynn.com/) + [Per](https://perstarke-webdev.de/) für die wirklichen Prioritäten im Leben.
+>
+>Danke an meine Eltern, dass ihr mich immer ermuntigt und mir ermöglicht habt, meinen Weg zu gehen ❤️.
+
+<hr>
+
 Danke an alle, die mir über diverse Kanäle Vorschläge für Verbesserungen gemacht oder Fehler gemeldet haben, sich am Review beteiligt oder auf andere Art-und-Weise zum Buch beigetragen haben.
 
 - Alexander Heusingfeld 
+- Dr. Alexander Lorz
 - Alexander Nachtigall
 - Andreas Krüger
 - Axel Noellchen
@@ -40,6 +48,7 @@ Danke an alle, die mir über diverse Kanäle Vorschläge für Verbesserungen gem
 - Mahbouba Gharbi
 - Manuel Stahl 
 - Margarete Metzger
+- Martina Meng
 - Dr. Martin Bartonitz 
 - Martina Schesny
 - Michael Mahlberg
@@ -55,6 +64,7 @@ Danke an alle, die mir über diverse Kanäle Vorschläge für Verbesserungen gem
 - Rolf Rosenbaum
 - Roman Weis
 - Samuel Casa
+- Dr. Simon Harrer
 - Stefan Densow
 - Stefan Tilkov
 - Stefan Zörner
