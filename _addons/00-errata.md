@@ -13,6 +13,9 @@ classes: wide
 Ein großes Dankeschön an alle, die sich die Mühe gemacht haben, mich auf diese
 Fehler hinzuweisen!
 
+## Hinweise zur zehnten Auflage (2024)
+Die zehnte Auflage gibt's seit 10. August 2024... noch
+
 ## Hinweise zur neunten Auflage (2020)
 
 Und auch in der neunten Auflage sind wieder ein paar Fehlerchen enthalten - die nette Leser:innen gefunden und gemeldet haben:
