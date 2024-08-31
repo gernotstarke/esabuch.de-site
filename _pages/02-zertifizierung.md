@@ -1,6 +1,6 @@
 ---
 title: iSAQB Zertifizierung
-layout: splash
+layout: single
 permalink: /zertifizierung/
 header:
   overlay_image: /images/site-header.png
@@ -8,14 +8,14 @@ header:
     - label: "Trainings"
       url: /trainings  
       class: "btn btn--info btn--hero btn--large"
+    - label: "Mapping Lernziele"
+      url: /mapping-lernziele
 
-excerpt: "Grundlage für CPSA-Prüfung"
+excerpt: "Hinweise zur iSAQB CPSA-Foundation Prüfung"
 
-certificate:
-  - image_path: /images/certification/cpsa-f-logo.png
-    alt: "CPSA-Foundation"
-    title: "Zertifizierung"
-    excerpt: 'Alle Informationen zur Vorbereitung auf die CPSA-F Prüfung.'
+toc: true
+toc_label: "Inhaltsverzeichnis"
+
 
 success:
   - image_path: /images/certification/success.jpg
@@ -51,12 +51,9 @@ Vorbereitung auf die iSAQB CPSA-Foundation Zertifizierung."</i></p>
 </div>
 
 
-{% include feature_row id="certificate" type="left" %}
-
-
 # Empfehlungen zur Prüfungsvorbereitung
 
-## Lesen Sie den offiziellen [iSAQB Foundation Lehrplan](https://public.isaqb.org/curriculum-foundation/)
+## 1. [iSAQB Foundation Lehrplan](https://public.isaqb.org/curriculum-foundation/) lesen
 
 1. Die Fragen in der (Multiple-Choice) Prüfung beziehen sich eindeutig auf Lernziele des offiziellen Lehrplans sowie der im Lehrplan genannten Voraussetzungen.
 
@@ -76,9 +73,13 @@ Modellierungskonstrukte (sowohl bezüglich statischer wie dynamischer Modelle) b
 5. Falls Ihnen Begriffe unbekannt sind, oder Sie  auf Nummer sicher gehen wollen:
 Das (kostenfreie) [_iSAQB Glossary of Software Architecture Terminology_](https://leanpub.com/isaqbglossary) enthält Definitionen der wesentlichen Begriffe rund um Softwarearchitektur.
 
-## Absolvieren Sie die [offizielle Beispielprüfung](https://public.isaqb.org/) (_Mock-Exam_)
+## 2. Prüfungsrelevanten Inhalte im Buch lesen
 
-* Beim iSAQB finden Sie eine ausführliche Beispielprüfung inklusive Lösungen.
+Zur Vereinfachung finden Sie ein [Mapping der Lernziele auf die zugehörigen Buchkapitel](/mapping-lernziele).
+
+## 3. [Beispielprüfung](https://public.isaqb.org/) absolvieren
+
+* Beim iSAQB finden Sie eine ausführliche Beispielprüfung (_Mock-Exam_) inklusive Lösungen.
 
 * Zum Verständnis der Fragetypen lohnt es sich, die offizielle Prüfungsordnung des iSAQB zu lesen:
 Die erläutert die verwendeten Typen von Prüfungsfragen.
