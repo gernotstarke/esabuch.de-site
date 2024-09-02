@@ -226,29 +226,139 @@ Diese Abschnitte behandeln verschiedene Aspekte des Schnittstellenentwurfs, von 
 
 
 ## Lehrplan Kapitel 3: Beschreibung und Kommunikation
-| Buchkapitel | Seite |
-| --- | --- |
+
+
+
+### LZ 3-1: Anforderungen an technische Dokumentation (R1)
+
+Die folgenden Abschnitte behandeln umfassend die Anforderungen an technische Dokumentation in der Softwarearchitektur. 
+Sie decken sowohl allgemeine Prinzipien der effektiven Dokumentation als auch spezifische Techniken und Formate ab. 
+Die detaillierte Struktur des arc42-Templates sowie des arc42 Canvas sind nicht prüfungsrelevant.
 
 | Buchkapitel | Seite |
 | --- | --- |
+| 5.2 Anforderungen an Architekturdokumentation | 128-129 |
+| 5.3.1 Tipps für bessere Architekturdiagramme | 131-137 |
 
-| LZ 3-1: Anforderungen an technische Dokumentation  (R1) | | |
-| LZ 3-2: Softwarearchitekturen beschreiben und kommunizieren (R1-R3) | | |
-| LZ 3-3: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur  (R2-R3) | | |
-| LZ 3-4: Architektursichten  (R1) | | |
-| LZ 3-5: Kontextabgrenzung  (R1) | | |
-| LZ 3-6: Querschnittskonzepte (R2) | | |
-| LZ 3-7: Schnittstellen  (R1) | | |
-| LZ 3-8: Architekturentscheidungen  (R1-R2) | | |
+### LZ 3-2: Softwarearchitekturen beschreiben und kommunizieren (R1-R3)
 
-## Architektur und Qualität
+Die folgenden Abschnitte decken umfassend die Beschreibung und Kommunikation von Softwarearchitekturen ab. 
+Sie behandeln verschiedene Aspekte der Architekturdokumentation, von der Begründung für die Dokumentation über effektive Dokumentationstechniken bis hin zu spezifischen Sichten und Notationen zur Beschreibung von Architekturen. 
 
-| Lernziel | Buchkapitel | Seite |
-| --- | --- | --- |
-| LZ 4-1: Qualitätsmodelle und Qualitätsmerkmale  (R1) | | |
-| LZ 4-2: Qualitätsanforderungen an Softwarearchitekturen (R1) | | |
-| LZ 4-3: Softwarearchitekturen qualitativ analysieren (R2-R3) | | |
-| LZ 4-4: Softwarearchitekturen quantitativ bewerten (R2) | | |
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 5.1 Warum kommunizieren und dokumentieren | 126-127 |
+| 5.3 Effektiv dokumentieren | 129-137 |
+| 5.3.1 Tipps für bessere Architekturdiagramme | 131-137 |
+| 5.4 Bestandteile von Architekturdokumentation (und Unterabschnitte) | 138-149 |
+| 5.4.1 Kontextabgrenzung: Vogelperspektive | 138-140 |
+| 5.4.2 Bausteinsicht: Code-im-Großen | 140-142 |
+| 5.4.3 Schnittstellen: Die Brücken zwischen Welten | 143-144 |
+| 5.4.4 Laufzeitsicht: Was geschieht wann? | 144-145 |
+| 5.4.5 Verteilungssicht: Zusammenhang zur technischen Infrastruktur | 145-146 |
+| 5.4.6 Querschnittliche Konzepte | 146-148 |
+| 5.4.7 Entscheidungen | 148-150 |
+| 5.6 Notationen zur Modellierung: UML, C4 und andere | 154-165 |
+
+
+### LZ 3-3: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur  (R2-R3)
+
+Die folgenden Abschnitte behandeln verschiedene Notations- und Modellierungsmittel zur Beschreibung von Softwarearchitekturen. 
+UML ist teilweise prüfungsrelevant, C4 allerdings nicht.
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 5.6 Notationen zur Modellierung: UML, C4 und andere | 154-165 |
+| 5.6.1 UML Kurzeinführung | 155-159 |
+
+### LZ 3-4: Architektursichten (R1)
+
+Dokumentation von Architektursichten, insbesondere Kontext-, Baustein-, Laufzeit- und Verteilungssicht.
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 5.4.1 Kontextabgrenzung: Vogelperspektive | 138-140 |
+| 5.4.2 Bausteinsicht: Code-im-Großen | 140-142 |
+| 5.4.4 Laufzeitsicht: Was geschieht wann? | 144-145 |
+| 5.4.5 Verteilungssicht: Zusammenhang zur technischen Infrastruktur | 145-146 |
+
+
+### LZ 3-5: Kontextabgrenzung (R1)
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 5.4.1 Kontextabgrenzung: Vogelperspektive | 138-140 |
+| 3.6 Externe Nachbarsysteme: Kontextabgrenzung | 44-45 |
+
+### LZ 3-6: Querschnittskonzepte (R2)
+
+Hier geht es um die Dokumentation der Querschnittskonzepte.  Nut eingeschränkt prüfungsrelevant.
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 5.4.6 Querschnittliche Konzepte | 146-148 |
+
+### LZ 3-7: Schnittstellen (R1)
+
+Hier geht es um die Dokumentation von Schnittstellen (auch mit UML).
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 5.4.2 Bausteinsicht: Code-im-Großen | 140-142 |
+| 5.4.3 Schnittstellen: Die Brücken zwischen Welten | 143-144 |
+| 4.3 Schnittstellen entwerfen | 84-88 |
+
+### LZ 3-8: Architekturentscheidungen (R1-R2)
+Diese Abschnitte behandeln Architekturentscheidungen und Architecture Decision Records (ADRs). 
+Sie bieten Einblicke in die Bedeutung von Architekturentscheidungen, wie man diese dokumentiert und kommuniziert. 
+
+Aufbau und Verwendung von ADRs sind nicht prüfungsrelevant.
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 2.2 Architekturentscheidungen | 19-21 |
+| 5.4.7 Entscheidungen | 148-150 |
+
+
+## Lehrplan Kapitel 4: Architektur und Qualität
+
+### LZ 4-1: Qualitätsmodelle und Qualitätsmerkmale (R1)
+
+Diese Abschnitte behandeln umfassend Qualitätsmodelle und Qualitätsmerkmale.
+Sie bieten Einblicke in verschiedene Qualitätsmodelle, einschließlich des ISO/IEC 25010 Standards sowie Q42 (nicht prüfungsrelevant), und erklären, wie man Qualitätsanforderungen identifiziert, formuliert und in der Softwarearchitektur berücksichtigt. 
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 3.5 Qualitätsanforderungen klären | 39-43 |
+| 4.2.2 Quality-Driven Software Architecture | 72-77 |
+
+### LZ 4-2: Qualitätsanforderungen an Softwarearchitekturen (R1)
+
+Hier geht es um Qualitätsanforderungen. 
+Das hatten wir bei der Anforderungsklärung (siehe oben) auch schon - aber doppelt hält besser.
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 3.5 Qualitätsanforderungen klären | 39-43 |
+
+
+### LZ 4-3: Softwarearchitekturen qualitativ analysieren (R2-R3)
+
+Die konkreten Details der Methode _ATAM_ sind nicht prüfungsrelevant.
+In den Abschnitten über "Quality-Driven Software Architecture" haben Sie die meisten der für die Analyse wichtigen Begriffe bereits gelesen.
+In jedem Fall müssen Sie vor einer qualitativen Analyse die konkreten Qualitätsanforderungen (siehe LZ-4-2) geklärt haben.
+
+| Buchkapitel | Seite |
+| --- | --- |
+| 3.5 Qualitätsanforderungen klären | 39-43 |
+| 6.1 Qualitative Architekturbewertung | 172-178 |
+
+
+### LZ 4-4: Softwarearchitekturen quantitativ bewerten (R2)
+
+| Buchkapitel | Seite |
+| --- | --- |
 
 ## Beispiele von Softwarearchitekturen
 
