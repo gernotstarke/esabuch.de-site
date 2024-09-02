@@ -86,7 +86,6 @@ Besonders in der Dokumentation und Kommunikation von Architekturentscheidungen w
 | 2.2 Architekturentscheidungen | 19-21 |
 | 5.3 Effektiv dokumentieren | 129-137 |
 | 5.4 Bestandteile von Architekturdokumentation | 138-149 |
-| 5.5 Architekturdokumentation mit arc42 | 150-154 |
 
 
 ## Lehrplan Kapitel 2: Entwurf und Entwicklung von Softwarearchitekturen
@@ -96,7 +95,7 @@ Besonders in der Dokumentation und Kommunikation von Architekturentscheidungen w
 
 Diese Abschnitte behandeln verschiedene Vorgehensweisen und Heuristiken zur Entwicklung von Softwarearchitekturen, einschließlich grundlegender Prinzipien, spezifischer Entwurfsmethoden und Architekturmuster.
 
-| Buchkapitel | Seite |
+| Buchkapitel | Seite | 
 | --- | --- |
 | 4.1 Grundlagen, Prinzipien und Heuristiken | 48-65 |
 | 4.2 Entwurfsmethoden | 66-84 |
@@ -104,7 +103,6 @@ Diese Abschnitte behandeln verschiedene Vorgehensweisen und Heuristiken zur Entw
 | 4.2.2 Quality-Driven Software Architecture | 72-77 |
 | 4.2.3 Top-down und Bottom-up | 79-80 |
 | 4.2.4 Sichtenbasierter Entwurf | 80-84 |
-| 4.4 Architekturmuster (Patterns) | 88-122 |
 
 ### LZ 2-2: Softwarearchitekturen entwerfen (R1)
 
@@ -121,10 +119,11 @@ Hier gibt es viel Überschneidung zu Lernziel 2-1 (s.o.).
 ### LZ 2-3: Anforderungen klären (R1-R3)
 
 Die folgenden Abschnitte behandeln verschiedene Aspekte der Anforderungsklärung, von der Identifikation der Kernaufgaben über die Ermittlung von Stakeholdern bis hin zur Klärung von Qualitätsanforderungen und Randbedingungen. 
-Zusätzlich thematisieren die Abschnitte 2.3 und 4.2.1 die Rolle des Architekten bei der Anforderungsklärung und die Bedeutung der Fachdomäne für die Anforderungsanalyse.
+Zusätzlich thematisieren die Abschnitte 2.3 und 4.2.1 die Rolle des Architekten bei der Anforderungsklärung und die Bedeutung der Fachdomäne für die Anforderungsanalyse, wobei Domain-Driven-Design keine Relevanz für die Prüfung besitzt.
 
 | Buchkapitel | Seite |
 | --- | --- |
+| 2.3.1 Anforderungen klären (als Aufgabe) | 23 |
 | 3. Anforderungen klären (mit Unterabschnitten 3.1 bis 3.7) | 35-46 |
 | 3.1 Was ist Kernaufgabe oder Ziel des Systems? | 35-36 |
 | 3.2 Relevante Stakeholder ermitteln | 36-37 |
@@ -133,7 +132,6 @@ Zusätzlich thematisieren die Abschnitte 2.3 und 4.2.1 die Rolle des Architekten
 | 3.5 Qualitätsanforderungen klären | 39-43 |
 | 3.6 Externe Nachbarsysteme: Kontextabgrenzung | 44-45 |
 | 3.7 Einflussfaktoren und Randbedingungen ermitteln | 45-46 |
-| 4.2.1 Domain-Driven Design (Entwurf nach Fachlichkeit) | 67-71 |
 
 ### LZ 2-4: Querschnittskonzepte entwerfen (R1)
 
@@ -357,8 +355,12 @@ In jedem Fall müssen Sie vor einer qualitativen Analyse die konkreten Qualität
 
 ### LZ 4-4: Softwarearchitekturen quantitativ bewerten (R2)
 
+Zum bewerten über Zahlen ("Metriken") gibt es auch ein paar Infos:
+
 | Buchkapitel | Seite |
 | --- | --- |
+| 6.2 Quantitative Bewertung durch Metriken | 179-181 ]
+
 
 ## Beispiele von Softwarearchitekturen
 
