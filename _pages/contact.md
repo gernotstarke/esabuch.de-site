@@ -9,7 +9,7 @@ header:
 
 * <a href="xmxaxixlxtxo:xgxsx@xgxexrxnxoxtxsxtxaxrxkxex.xdxe" onmouseover="this.href=this.href.replace(/x/g,'');"><i class="fa fa-fw fa-envelope"></i>Email (Adresse gegen Spam gesichert)</a>
 
-* [<i class="fab fa-fw fa-mastodon"></i>Mastodon / INNOQ ](https://innoq.social/@gernotstarke)
+* [<i class="fas fa-fw fa-user-shield"></i>Privacy](https://www.gernotstarke.de/imprint)
 
 * [<i class="fab fa-fw fa-linkedin"></i>LinkedIn](https://www.linkedin.com/in/gernotstarke)
 
