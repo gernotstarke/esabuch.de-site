@@ -36,7 +36,7 @@ kaufen:
      excerpt: 'Kritik? Vorschläge? Fehler gefunden? Ich freue mich über Ihre Rückmeldung:
 
     <form action="https://submit-form.com/yLGolvuEO"
-    data-botpoison-public-key="pk_8c4691ff-fe9c-4765-aaaa-13337d52b9e2">
+    data-botpoison-public-key="pk_e2591972-03c0-4d4c-829c-60449d09ac7e">
     <input
             type="hidden"
             name="_redirect"
